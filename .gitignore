@@ -1,0 +1,4 @@
+# Python cache soubory
+__pycache__/
+*.py[cod]
+*$py.class
