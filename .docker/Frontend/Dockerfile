@@ -4,7 +4,9 @@ FROM node:${NODE_VERSION}-alpine
 WORKDIR /app/frontend
 
 COPY ../../frontend/package*.json ./
-RUN npm install -g npx
 RUN npm install
+
+#PAK ZMĚNIT DLE POTŘEBY
+RUN npm start
 
 EXPOSE 3000
