@@ -48,6 +48,7 @@ services:
       dockerfile: .docker/Frontend/Dockerfile
       args:
        - NODE_VERSION=${NODE_VERSION}
+       - REACT_PORT=${REACT_PORT}
     container_name: cinevote-frontend
     command: ["npm", "start"]
     env_file:
@@ -59,7 +60,7 @@ services:
     depends_on:
       - django
     ports:
-      - "3000:3000"
+      - ${REACT_PORT}:${REACT_PORT}
     networks:
       - cinevote
   pgadmin:

@@ -1,15 +1,18 @@
+-- Tabulka rolí
 CREATE TABLE roles (
     id SERIAL PRIMARY KEY,
     name VARCHAR(64) UNIQUE
-
 );
 
+-- Tabulka uživatelů
 CREATE TABLE users (
     id SERIAL PRIMARY KEY,
     username VARCHAR(64) UNIQUE,
-    FOREIGN KEY (fk_role) REFERENCES roles(id)
+    fk_roles INTEGER,
+    FOREIGN KEY (fk_roles) REFERENCES roles(id)
 );
 
+-- Tabulka filmů
 CREATE TABLE films (
     id SERIAL PRIMARY KEY,
     name_cz VARCHAR(100) UNIQUE,
@@ -17,53 +20,69 @@ CREATE TABLE films (
     release_year INTEGER
 );
 
-CREATE TABLE category (
+-- Kategorie filmů
+CREATE TABLE categories (
     id SERIAL PRIMARY KEY,
     name_cz VARCHAR(100) UNIQUE,
     name_en VARCHAR(100) UNIQUE
 );
 
-CREATE TABLE film_category (
+-- Spojovací tabulka film - kategorie
+CREATE TABLE film_categories (
     id SERIAL PRIMARY KEY,
+    fk_film INTEGER,
+    fk_category INTEGER,
     FOREIGN KEY (fk_film) REFERENCES films(id),
-    FOREIGN KEY (fk_category) REFERENCES category(id)
+    FOREIGN KEY (fk_category) REFERENCES categories(id)
 );
 
+-- Hodnoty hlasování (např. ano/ne)
 CREATE TABLE vote_values (
     id SERIAL PRIMARY KEY,
     value BOOLEAN NOT NULL
 );
 
-CREATE TABLE user_votes (
+-- Hlasování uživatelů
+CREATE TABLE users_votes (
     id SERIAL PRIMARY KEY,
-    FOREIGN KEY (fk_value) REFERENCES value(id),
-    FOREIGN KEY (fk_user) REFERENCES user(id)
+    fk_value INTEGER,
+    fk_user INTEGER,
+    FOREIGN KEY (fk_value) REFERENCES vote_values(id),
+    FOREIGN KEY (fk_user) REFERENCES users(id)
 );
 
-CREATE TABLE session (
+-- Sezení (např. jedno hlasování)
+CREATE TABLE sessions (
     id SERIAL PRIMARY KEY,
-    FOREIGN KEY (fk_creator) REFERENCES users(id),
+    fk_creator INTEGER,
     sess_code VARCHAR(64) UNIQUE NOT NULL,
-    created_at DATE
+    created_at DATE,
+    FOREIGN KEY (fk_creator) REFERENCES users(id)
 );
 
-CREATE TABLE session_user (
+-- Spojovací tabulka sezení - uživatelé
+CREATE TABLE sessions_users (
     id SERIAL PRIMARY KEY,
-    FOREIGN KEY (fk_session) REFERENCES session(id),
-    FOREIGN KEY (fk_user) REFERENCES user(id)
-
+    fk_session INTEGER,
+    fk_user INTEGER,
+    FOREIGN KEY (fk_session) REFERENCES sessions(id),
+    FOREIGN KEY (fk_user) REFERENCES users(id)
 );
 
-CREATE TABLE session_film (
+-- Spojovací tabulka sezení - filmy
+CREATE TABLE sessions_films (
     id SERIAL PRIMARY KEY,
-    FOREIGN KEY (fk_session) REFERENCES session(id),
+    fk_session INTEGER,
+    fk_film INTEGER,
+    FOREIGN KEY (fk_session) REFERENCES sessions(id),
     FOREIGN KEY (fk_film) REFERENCES films(id)
-
 );
 
-CREATE TABLE session_votes (
+-- Hlasování v rámci sezení a filmu
+CREATE TABLE sessions_votes (
     id SERIAL PRIMARY KEY,
-    FOREIGN KEY (fk_session_film) REFERENCES session_film(id),
-    FOREIGN KEY (fk_vote) REFERENCES user_votes(id)
-
+    fk_session_film INTEGER,
+    fk_vote INTEGER,
+    FOREIGN KEY (fk_session_film) REFERENCES sessions_films(id),
+    FOREIGN KEY (fk_vote) REFERENCES users_votes(id)
 );

@@ -1,4 +1,5 @@
 ARG NODE_VERSION
+ARG REACT_PORT
 FROM node:${NODE_VERSION}-alpine
 
 WORKDIR /app/frontend
@@ -6,7 +7,4 @@ WORKDIR /app/frontend
 COPY ../../frontend/package*.json ./
 RUN npm install
 
-#PAK ZMĚNIT DLE POTŘEBY
-RUN npm start
-
-EXPOSE 3000
+EXPOSE ${REACT_PORT}
