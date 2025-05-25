@@ -1,11 +1,11 @@
 import pandas as pd
 import os
 
-CSV_PATH = "./csv/"
+CSV_PATH = "../csv/"
 CSV_FILE_NAME = "initGenres.csv"
 
 if __name__ == "__main__":
-    data = pd.read_csv("./csv/initFilms.csv")
+    data = pd.read_csv("../csv/initFilms.csv")
     
     # Převedeme string reprezentaci seznamu na skutečný seznam
     data['genres'] = data['genres'].apply(eval)
