@@ -21,19 +21,19 @@ CREATE TABLE film (
 );
 
 -- Kategorie filmů
-CREATE TABLE genres (
+CREATE TABLE genre (
     id SERIAL PRIMARY KEY,
     name_cz VARCHAR(100) UNIQUE,
     name_en VARCHAR(100) UNIQUE
 );
 
 -- Spojovací tabulka film - kategorie
-CREATE TABLE film_genres (
+CREATE TABLE film_genre (
     id SERIAL PRIMARY KEY,
     fk_film INTEGER,
     fk_genre INTEGER,
     FOREIGN KEY (fk_film) REFERENCES film(id),
-    FOREIGN KEY (fk_genre) REFERENCES genres(id)
+    FOREIGN KEY (fk_genre) REFERENCES genre(id)
 );
 
 -- Hodnoty hlasování (např. ano/ne)
