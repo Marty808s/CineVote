@@ -15,8 +15,8 @@ CREATE TABLE users (
 -- Tabulka filmů
 CREATE TABLE films (
     id SERIAL PRIMARY KEY,
-    name_cz VARCHAR(100) UNIQUE,
-    name_en VARCHAR(100) UNIQUE,
+    name_cz VARCHAR(100),
+    name_en VARCHAR(100),
     release_year INTEGER
 );
 

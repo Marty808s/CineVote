@@ -1,0 +1,6 @@
+cinevote_postgresql  | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/02_data.sql
+cinevote_postgresql  | COPY 1000
+cinevote_postgresql  | 2025-05-26 09:13:33.891 UTC [64] ERROR:  relation "genres" does not exist
+cinevote_postgresql  | 2025-05-26 09:13:33.891 UTC [64] STATEMENT:  COPY genres(name_cz, name_en)
+cinevote_postgresql  |  FROM '/tmp/initGenres.csv' DELIMITER ',' CSV HEADER;
+cinevote_postgresql  | psql:/docker-entrypoint-initdb.d/02_data.sql:7: ERROR:  relation "genres" does not exist
