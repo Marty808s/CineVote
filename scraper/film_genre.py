@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-CSV_PATH = "./csv/"
+CSV_PATH = "../csv/"
 CSV_FILE_NAME = "filmGenre.csv"
 
 if __name__ == "__main__":
@@ -11,23 +11,26 @@ if __name__ == "__main__":
     # Převedeme string reprezentaci seznamu na skutečný seznam
     film['genres'] = film['genres'].apply(eval)
 
-    filmGenre = {}
-
-    # DODĚLAT KVULI FK
-    for f_id, f in enumerate(film):
-        for genre in f['genres']:
-            if genre:
-                for g_id, g in enumerate(genre):
-                    if genre in g:
-                        filmGenre["MOVIE NAME"] = f["name_cz"]
-                        filmGenre["fk_film"] = f_id
-                        filmGenre["fk_genre"] = g_id
-                else:
-                    continue
-
-    print(filmGenre)
-    dataFrame = pd.DataFrame(filmGenre, columns=["fk_film", "fk_genre"])
+    # Create a list to store the film-genre relationships
+    film_genre_relations = []
 
 
-    # Uložíme do CSV
-    #genres_df.to_csv(os.path.join(CSV_PATH, CSV_FILE_NAME), index=False, encoding='utf-8-sig')
+    for index, row in film.iterrows():
+        film_id = index + 1
+        film_name = row['name_cz']
+        
+        for genre_name in row['genres']:
+            if genre_name:
+                genre_row = genre[genre['name_cz'] == genre_name]
+                if not genre_row.empty:
+                    genre_id = genre_row.index[0] + 1
+                    film_genre_relations.append({
+                        "MOVIE NAME": film_name,
+                        "fk_film": film_id,
+                        "fk_genre": genre_id
+                    })
+
+    print(film_genre_relations)
+    dataFrame = pd.DataFrame(film_genre_relations, columns=["MOVIE NAME", "fk_film", "fk_genre"])
+
+    dataFrame.to_csv(os.path.join(CSV_PATH, CSV_FILE_NAME), index=False, encoding='utf-8-sig')

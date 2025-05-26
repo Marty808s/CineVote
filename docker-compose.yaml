@@ -6,7 +6,9 @@ services:
     restart: unless-stopped
     volumes:
       - pgdata:/var/lib/postgresql/data
-      - ./importDB:/docker-entrypoint-initdb.d
+      - ./importDB/01_tables.sql:/docker-entrypoint-initdb.d/01_tables.sql
+      - ./csv:/tmp
+      - ./importDB/02_data.sql:/docker-entrypoint-initdb.d/02_data.sql
     ports:
       - '127.0.0.1:5432:5432'
     environment:
@@ -26,7 +28,7 @@ services:
       context: .
       dockerfile: .docker/Backend/Dockerfile
       args:
-        - PY_VERSION=${PY_VERSION}
+        - PY_VERSION=${PY_VERSION}-slim
     container_name: cinevote-backend
     restart: unless-stopped
     command: >

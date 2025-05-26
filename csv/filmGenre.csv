@@ -1,0 +1,2464 @@
+﻿MOVIE NAME,fk_film,fk_genre
+Vykoupení z věznice Shawshank,1,1
+Vykoupení z věznice Shawshank,1,2
+Forrest Gump,2,1
+Forrest Gump,2,3
+Forrest Gump,2,4
+Zelená míle,3,1
+Zelená míle,3,2
+Sedm,4,5
+Sedm,4,2
+Sedm,4,1
+Přelet nad kukaččím hnízdem,5,1
+Schindlerův seznam,6,1
+Schindlerův seznam,6,6
+Schindlerův seznam,6,7
+Kmotr,7,1
+Kmotr,7,2
+Dvanáct rozhněvaných mužů,8,1
+Dvanáct rozhněvaných mužů,8,2
+Nedotknutelní,9,3
+Nedotknutelní,9,1
+Nedotknutelní,9,7
+Pelíšky,10,3
+Pelíšky,10,1
+Terminátor 2: Den zúčtování,11,8
+Terminátor 2: Den zúčtování,11,9
+Terminátor 2: Den zúčtování,11,5
+Pán prstenů: Společenstvo Prstenu,12,10
+Pán prstenů: Společenstvo Prstenu,12,11
+Pán prstenů: Společenstvo Prstenu,12,8
+Pulp Fiction: Historky z podsvětí,13,2
+Pulp Fiction: Historky z podsvětí,13,1
+Pán prstenů: Návrat krále,14,10
+Pán prstenů: Návrat krále,14,11
+Pán prstenů: Návrat krále,14,8
+Kmotr II,15,1
+Kmotr II,15,2
+Temný rytíř,16,8
+Temný rytíř,16,1
+Temný rytíř,16,2
+Temný rytíř,16,5
+Mlčení jehňátek,17,5
+Mlčení jehňátek,17,2
+Mlčení jehňátek,17,12
+Mlčení jehňátek,17,1
+Tenkrát na Západě,18,13
+Matrix,19,8
+Matrix,19,9
+Gran Torino,20,1
+"Hodný, zlý a ošklivý",21,13
+Dobyvatelé ztracené archy,22,11
+Dobyvatelé ztracené archy,22,8
+Dobyvatelé ztracené archy,22,1
+Dobyvatelé ztracené archy,22,10
+Rain Man,23,1
+Rain Man,23,14
+Sedm statečných,24,13
+Sedm statečných,24,11
+Sedm statečných,24,8
+Vyšší princip,25,1
+Vyšší princip,25,15
+Indiana Jones a Poslední křížová výprava,26,11
+Indiana Jones a Poslední křížová výprava,26,8
+Indiana Jones a Poslední křížová výprava,26,1
+Indiana Jones a Poslední křížová výprava,26,10
+Vetřelec,27,12
+Vetřelec,27,9
+Vetřelci,28,9
+Vetřelci,28,5
+Vetřelci,28,8
+Vetřelci,28,11
+Vetřelci,28,12
+Rivalové,29,1
+Rivalové,29,7
+Rivalové,29,8
+Le Mans '66,30,1
+Le Mans '66,30,7
+Le Mans '66,30,8
+Smrtonosná past,31,8
+Smrtonosná past,31,5
+Podraz,32,1
+Podraz,32,3
+Podraz,32,2
+Zachraňte vojína Ryana,33,1
+Zachraňte vojína Ryana,33,15
+S čerty nejsou žerty,34,3
+Leon,35,1
+Leon,35,2
+Leon,35,5
+"„Marečku, podejte mi pero!“",36,3
+Amadeus,37,1
+Amadeus,37,7
+Obecná škola,38,3
+Obecná škola,38,1
+Star Wars: Epizoda V - Impérium vrací úder,39,9
+Star Wars: Epizoda V - Impérium vrací úder,39,11
+Star Wars: Epizoda V - Impérium vrací úder,39,10
+Star Wars: Epizoda V - Impérium vrací úder,39,8
+L. A. - Přísně tajné,40,1
+L. A. - Přísně tajné,40,2
+L. A. - Přísně tajné,40,5
+Cesta do hlubin študákovy duše,41,3
+Butch Cassidy a Sundance Kid,42,13
+Butch Cassidy a Sundance Kid,42,1
+Butch Cassidy a Sundance Kid,42,2
+Butch Cassidy a Sundance Kid,42,7
+Pán prstenů: Dvě věže,43,10
+Pán prstenů: Dvě věže,43,11
+Pán prstenů: Dvě věže,43,8
+Návrat do budoucnosti,44,11
+Návrat do budoucnosti,44,3
+Návrat do budoucnosti,44,9
+Počátek,45,8
+Počátek,45,9
+Počátek,45,5
+Počátek,45,11
+Gladiátor,46,8
+Gladiátor,46,11
+Gladiátor,46,1
+Čistá duše,47,1
+Čistá duše,47,7
+Město bohů,48,2
+Město bohů,48,1
+Pianista,49,1
+Pianista,49,7
+Pianista,49,15
+Spalovač mrtvol,50,1
+Spalovač mrtvol,50,12
+Spalovač mrtvol,50,5
+Spalovač mrtvol,50,3
+Tanec s vlky,51,11
+Tanec s vlky,51,1
+Tanec s vlky,51,13
+Vesničko má středisková,52,3
+Šestý smysl,53,1
+Šestý smysl,53,5
+Šestý smysl,53,12
+Nespoutaný Django,54,13
+Nespoutaný Django,54,11
+Nespoutaný Django,54,1
+Casino,55,1
+Casino,55,2
+Prokletý ostrov,56,5
+Prokletý ostrov,56,1
+Klub rváčů,57,1
+Klub rváčů,57,5
+Kult hákového kříže,58,1
+Kult hákového kříže,58,2
+Statečné srdce,59,1
+Statečné srdce,59,6
+Statečné srdce,59,15
+Statečné srdce,59,7
+Million Dollar Baby,60,1
+Dobrý Will Hunting,61,1
+Nelítostný souboj,62,8
+Nelítostný souboj,62,1
+Nelítostný souboj,62,2
+Nelítostný souboj,62,5
+Život je krásný,63,3
+Život je krásný,63,4
+Život je krásný,63,1
+Život je krásný,63,15
+Psycho,64,12
+Psycho,64,5
+Dokonalý trik,65,5
+Dokonalý trik,65,1
+Dokonalý trik,65,9
+Četa,66,1
+Četa,66,15
+12 úkolů pro Asterixe,67,16
+12 úkolů pro Asterixe,67,11
+12 úkolů pro Asterixe,67,3
+Klaus,68,16
+Klaus,68,11
+Klaus,68,3
+Osvícení,69,12
+Osvícení,69,1
+Osvícení,69,5
+Smrtonosná zbraň,70,8
+Smrtonosná zbraň,70,2
+Smrtonosná zbraň,70,5
+Hon,71,1
+Prázdniny v Římě,72,3
+Prázdniny v Římě,72,4
+Shrek,73,16
+Shrek,73,11
+Shrek,73,3
+Star Wars: Epizoda IV - Nová naděje,74,9
+Star Wars: Epizoda IV - Nová naděje,74,11
+Star Wars: Epizoda IV - Nová naděje,74,10
+Star Wars: Epizoda IV - Nová naděje,74,8
+Na samotě u lesa,75,3
+Na samotě u lesa,75,1
+Někdo to rád horké,76,3
+Někdo to rád horké,76,2
+Někdo to rád horké,76,4
+Kladivo na čarodějnice,77,1
+Kladivo na čarodějnice,77,6
+Kladivo na čarodějnice,77,12
+Motýlek,78,1
+Motýlek,78,2
+Motýlek,78,7
+Requiem za sen,79,1
+Mafiáni,80,1
+Mafiáni,80,2
+Mafiáni,80,7
+Coco,81,16
+Coco,81,3
+Coco,81,10
+Coco,81,11
+U pokladny stál...,82,3
+Tenkrát v Americe,83,2
+Tenkrát v Americe,83,1
+Tenkrát v Americe,83,5
+Star Wars: Epizoda III - Pomsta Sithů,84,9
+Star Wars: Epizoda III - Pomsta Sithů,84,10
+Star Wars: Epizoda III - Pomsta Sithů,84,11
+Star Wars: Epizoda III - Pomsta Sithů,84,8
+Cesta do pravěku,85,11
+Cesta do pravěku,85,10
+Cesta do pravěku,85,9
+Warrior,86,1
+Obvyklí podezřelí,87,1
+Obvyklí podezřelí,87,2
+Obvyklí podezřelí,87,5
+Americká krása,88,1
+Podfu(c)k,89,3
+Podfu(c)k,89,2
+Bohemian Rhapsody,90,7
+Bohemian Rhapsody,90,1
+Star Wars: Epizoda VI - Návrat Jediů,91,9
+Star Wars: Epizoda VI - Návrat Jediů,91,11
+Star Wars: Epizoda VI - Návrat Jediů,91,10
+Star Wars: Epizoda VI - Návrat Jediů,91,8
+Byl jednou jeden král...,92,3
+Bourneovo ultimátum,93,8
+Bourneovo ultimátum,93,5
+Terminátor,94,8
+Terminátor,94,9
+Terminátor,94,5
+Uprchlík,95,8
+Uprchlík,95,5
+Uprchlík,95,1
+Duna: Část druhá,96,9
+Duna: Část druhá,96,8
+Duna: Část druhá,96,11
+Duna: Část druhá,96,1
+Čas probuzení,97,1
+Čas probuzení,97,7
+Spider-Man: Napříč paralelními světy,98,16
+Spider-Man: Napříč paralelními světy,98,8
+Spider-Man: Napříč paralelními světy,98,11
+Spider-Man: Napříč paralelními světy,98,9
+"Chyť mě, když to dokážeš",99,1
+"Chyť mě, když to dokážeš",99,2
+"Chyť mě, když to dokážeš",99,7
+Poslední skaut,100,8
+Poslední skaut,100,2
+Poslední skaut,100,5
+Poslední skaut,100,3
+Frajer Luke,101,1
+Frajer Luke,101,2
+25 let neviny,102,1
+Trainspotting,103,1
+Trainspotting,103,2
+Trainspotting,103,3
+Princezna Mononoke,104,16
+Princezna Mononoke,104,11
+Princezna Mononoke,104,10
+Světáci,105,3
+Medvěd,106,11
+Medvěd,106,1
+Hanebný pancharti,107,1
+Hanebný pancharti,107,11
+Hanebný pancharti,107,15
+Truman Show,108,1
+Truman Show,108,3
+Truman Show,108,9
+"Jára Cimrman ležící, spící",109,3
+"Jára Cimrman ležící, spící",109,7
+Škola základ života,110,3
+Zelená kniha,111,1
+Zelená kniha,111,3
+Zelená kniha,111,14
+Zelená kniha,111,7
+Sedm samurajů,112,8
+Sedm samurajů,112,1
+Americký gangster,113,1
+Americký gangster,113,2
+Americký gangster,113,5
+Americký gangster,113,7
+Sbal prachy a vypadni,114,2
+Sbal prachy a vypadni,114,5
+Sbal prachy a vypadni,114,3
+Zjizvená tvář,115,2
+Zjizvená tvář,115,1
+Zjizvená tvář,115,5
+Cesta do fantazie,116,16
+Cesta do fantazie,116,11
+Cesta do fantazie,116,10
+Třináct životů,117,1
+Třináct životů,117,11
+Černý jestřáb sestřelen,118,1
+Černý jestřáb sestřelen,118,6
+Černý jestřáb sestřelen,118,15
+12 opic,119,9
+12 opic,119,5
+Predátor,120,8
+Predátor,120,9
+Predátor,120,12
+Osudový dotek,121,9
+Osudový dotek,121,5
+Obchod na korze,122,1
+Obchod na korze,122,15
+Batman začíná,123,8
+Batman začíná,123,11
+"Vrchní, prchni!",124,3
+Rocky,125,1
+Memento,126,5
+Lví král,127,16
+Lví král,127,11
+Lví král,127,1
+Lví král,127,17
+Smrtonosná zbraň 2,128,8
+Smrtonosná zbraň 2,128,2
+Smrtonosná zbraň 2,128,5
+Top Gun: Maverick,129,8
+Top Gun: Maverick,129,1
+Sněhurka a sedm trpaslíků,130,16
+Sněhurka a sedm trpaslíků,130,4
+Sněhurka a sedm trpaslíků,130,17
+Čarodějův učeň,131,16
+Čarodějův učeň,131,12
+Ponorka,132,1
+Ponorka,132,15
+Sám doma,133,3
+Temný rytíř povstal,134,8
+Temný rytíř povstal,134,2
+Temný rytíř povstal,134,1
+Temný rytíř povstal,134,5
+Pro pár dolarů navíc,135,13
+Na hraně zítřka,136,9
+Na hraně zítřka,136,8
+Na hraně zítřka,136,11
+Hotel Rwanda,137,1
+Hotel Rwanda,137,15
+Hotel Rwanda,137,7
+Nejistá sezóna,138,3
+Jak vycvičit draka,139,16
+Jak vycvičit draka,139,11
+Jak vycvičit draka,139,10
+Jak vycvičit draka,139,3
+Vynález zkázy,140,9
+Vynález zkázy,140,11
+Vynález zkázy,140,10
+Císařův pekař - Pekařův císař,142,3
+Císařův pekař - Pekařův císař,142,6
+Hra,143,1
+Hra,143,5
+Smrt krásných srnců,144,1
+Smrt krásných srnců,144,3
+Olověná vesta,145,1
+Olověná vesta,145,15
+Černobílý svět,146,1
+Sloní muž,147,1
+Sloní muž,147,7
+Hledá se Nemo,148,16
+Hledá se Nemo,148,11
+Hledá se Nemo,148,3
+Jurský park,149,11
+Jurský park,149,9
+Jurský park,149,5
+Kolja,150,3
+Kolja,150,1
+Limonádový Joe aneb Koňská opera,151,3
+Limonádový Joe aneb Koňská opera,151,17
+Limonádový Joe aneb Koňská opera,151,13
+Limonádový Joe aneb Koňská opera,151,11
+Zmizení,152,5
+Zmizení,152,2
+Zmizení,152,1
+Dobrý voják Švejk,153,3
+Dobrý voják Švejk,153,15
+Život Briana,154,3
+Apokalypsa,155,15
+Apokalypsa,155,1
+Most přes řeku Kwai,156,11
+Most přes řeku Kwai,156,1
+Most přes řeku Kwai,156,15
+Rozzum v divočině,157,16
+Rozzum v divočině,157,9
+Rozzum v divočině,157,11
+Skrytá identita,158,1
+Skrytá identita,158,2
+Skrytá identita,158,5
+Návrat do budoucnosti II,159,11
+Návrat do budoucnosti II,159,3
+Návrat do budoucnosti II,159,9
+Návrat do budoucnosti II,159,8
+Gentlemani,160,8
+Gentlemani,160,3
+Gentlemani,160,2
+Společnost mrtvých básníků,161,1
+Pink Floyd: The Wall,162,1
+Pink Floyd: The Wall,162,17
+Pink Floyd: The Wall,162,16
+Pink Floyd: The Wall,162,10
+Carlitova cesta,163,1
+Carlitova cesta,163,2
+Carlitova cesta,163,5
+Vlny,164,1
+Vlny,164,5
+Vlny,164,6
+Zpívání v dešti,165,17
+Zpívání v dešti,165,4
+Zpívání v dešti,165,3
+Ratatouille,166,16
+Ratatouille,166,3
+Ratatouille,166,11
+Ratatouille,166,10
+Gauneři,167,2
+Gauneři,167,5
+Všichni dobří rodáci,168,1
+Kid,169,3
+Kid,169,1
+Život je krásný,170,1
+Život je krásný,170,10
+Život je krásný,170,4
+Harry Potter a vězeň z Azkabanu,171,10
+Harry Potter a vězeň z Azkabanu,171,11
+Králova řeč,172,1
+Králova řeč,172,7
+Slavnosti sněženek,173,3
+Četník ze Saint Tropez,174,3
+Četník ze Saint Tropez,174,2
+Avengers: Infinity War,175,8
+Avengers: Infinity War,175,11
+Avengers: Infinity War,175,9
+Svět podle Prota,176,1
+Svět podle Prota,176,9
+Spider-Man: Paralelní světy,177,16
+Spider-Man: Paralelní světy,177,8
+Spider-Man: Paralelní světy,177,11
+Spider-Man: Paralelní světy,177,9
+Ucho,178,1
+Ucho,178,5
+Nebe a dudy,179,3
+Nebe a dudy,179,4
+Obchodník se smrtí,180,2
+Obchodník se smrtí,180,1
+Obchodník se smrtí,180,5
+Skála,181,8
+Skála,181,5
+Skála,181,11
+Poslušně hlásím,182,3
+Poslušně hlásím,182,15
+Česká soda,183,3
+Přednosta stanice,184,3
+Ducháček to zařídí,185,3
+Okno do dvora,186,5
+Diktátor,187,3
+Diktátor,187,1
+Diktátor,187,15
+Kimi no na wa.,188,16
+Kimi no na wa.,188,10
+Kimi no na wa.,188,4
+Kimi no na wa.,188,1
+Láska nebeská,189,3
+Láska nebeská,189,1
+Láska nebeská,189,4
+Agent bez minulosti,190,8
+Agent bez minulosti,190,5
+Toy Story: Příběh hraček,191,16
+Toy Story: Příběh hraček,191,11
+Toy Story: Příběh hraček,191,3
+Bournův mýtus,192,8
+Bournův mýtus,192,5
+Věc,193,9
+Věc,193,12
+Věc,193,5
+Whiplash,194,1
+Velký útěk,195,11
+Velký útěk,195,1
+Velký útěk,195,15
+Velký útěk,195,6
+96 hodin,196,8
+96 hodin,196,2
+96 hodin,196,5
+96 hodin,196,1
+Rambo: První krev,197,8
+Rambo: První krev,197,11
+Rambo: První krev,197,1
+Hačikó - příběh psa,198,1
+Těžká váha,199,1
+Těžká váha,199,7
+Těžká váha,199,6
+Howlův kráčející hrad,200,16
+Howlův kráčející hrad,200,11
+Howlův kráčející hrad,200,10
+Howlův kráčející hrad,200,4
+Stezky slávy,201,1
+Stezky slávy,201,15
+Interstellar,202,9
+Interstellar,202,11
+Interstellar,202,1
+"Jáchyme, hoď ho do stroje!",203,3
+Poklad na Stříbrném jezeře,204,11
+Poklad na Stříbrném jezeře,204,13
+Stvoření světa,205,16
+Stvoření světa,205,3
+Ip Man,206,8
+Ip Man,206,1
+Ip Man,206,7
+Absolvent,207,1
+Absolvent,207,3
+Zvíře,208,3
+Zvíře,208,8
+Zvíře,208,4
+Příběh z Bronxu,209,2
+Příběh z Bronxu,209,1
+Vzpomínky na lásku,210,1
+Vzpomínky na lásku,210,4
+Tichá bolest,211,1
+Sunset Boulevard,212,1
+Bio Ráj,213,1
+Bio Ráj,213,4
+Bio Ráj,213,3
+VALL-I,214,16
+VALL-I,214,11
+VALL-I,214,9
+Nekonečný příběh,215,10
+Nekonečný příběh,215,11
+Nekonečný příběh,215,1
+Příšerky s.r.o.,216,16
+Příšerky s.r.o.,216,3
+Příšerky s.r.o.,216,10
+Útěk do divočiny,217,11
+Útěk do divočiny,217,1
+Útěk do divočiny,217,7
+Neúplatní,218,2
+Neúplatní,218,1
+Neúplatní,218,5
+Muž z Acapulca,219,3
+Muž z Acapulca,219,8
+Muž z Acapulca,219,4
+Kramerová versus Kramer,220,1
+JFK,221,1
+JFK,221,6
+JFK,221,5
+Nebeští jezdci,222,15
+Nebeští jezdci,222,1
+Ve jménu otce,223,1
+Ve jménu otce,223,7
+Ve jménu otce,223,5
+Moderní doba,224,3
+Moderní doba,224,1
+Moderní doba,224,4
+Vlkochodci,225,16
+Vlkochodci,225,11
+Vlkochodci,225,10
+Titanic,226,1
+Titanic,226,4
+Titanic,226,6
+Titanic,226,19
+Joker,227,2
+Joker,227,1
+Joker,227,5
+Lepší už to nebude,228,3
+Lepší už to nebude,228,1
+Lepší už to nebude,228,4
+Adéla ještě nevečeřela,229,3
+Adéla ještě nevečeřela,229,2
+Adéla ještě nevečeřela,229,9
+Návrat do budoucnosti III,230,11
+Návrat do budoucnosti III,230,3
+Návrat do budoucnosti III,230,9
+Návrat do budoucnosti III,230,13
+Kmotr III,231,1
+Kmotr III,231,2
+Velký flám,232,3
+Velký flám,232,15
+My Fair Lady,233,3
+My Fair Lady,233,1
+My Fair Lady,233,17
+My Fair Lady,233,4
+Zlo mezi námi,234,1
+Ben Hur,235,11
+Ben Hur,235,1
+Ben Hur,235,6
+Atentát,236,1
+Atentát,236,15
+Atentát,236,6
+Atentát,236,5
+Frigo na mašině,237,3
+Frigo na mašině,237,4
+Frigo na mašině,237,11
+Frigo na mašině,237,15
+Frigo na mašině,237,8
+Norimberský proces,238,1
+Norimberský proces,238,6
+Norimberský proces,238,15
+Philadelphia,239,1
+Musíme si pomáhat,240,3
+Musíme si pomáhat,240,1
+Musíme si pomáhat,240,15
+Páni kluci,241,11
+Páni kluci,241,3
+Fimfárum Jana Wericha,242,16
+Fimfárum Jana Wericha,242,10
+Metropolis,243,9
+Metropolis,243,1
+Dva muži ve městě,244,2
+Dva muži ve městě,244,1
+Bídníci,245,1
+Ten den přijde,246,1
+Volný pád,247,1
+Volný pád,247,2
+Volný pád,247,5
+Kulový blesk,248,3
+Mach a Šebestová k tabuli!,249,16
+Mach a Šebestová k tabuli!,249,3
+Malý velký muž,250,13
+Malý velký muž,250,1
+Malý velký muž,250,3
+Malý velký muž,250,11
+Jean od Floretty,251,1
+X-Men: První třída,252,8
+X-Men: První třída,252,11
+X-Men: První třída,252,9
+X-Men: První třída,252,5
+Poslední samuraj,253,8
+Poslední samuraj,253,11
+Poslední samuraj,253,1
+Poslední Mohykán,254,8
+Poslední Mohykán,254,11
+Poslední Mohykán,254,1
+Poslední Mohykán,254,4
+Poslední Mohykán,254,15
+Co žere Gilberta Grapea,255,1
+Vinnetou,256,13
+Vinnetou,256,11
+Skleněné peklo,257,5
+Skleněné peklo,257,1
+Skleněné peklo,257,8
+Skleněné peklo,257,19
+Asterix v Británii,258,16
+Asterix v Británii,258,11
+Asterix v Británii,258,3
+Skřivánci na niti,259,3
+O myších a lidech,260,1
+Profesionál,261,8
+Profesionál,261,2
+Profesionál,261,1
+Profesionál,261,5
+Laputa: Nebeský zámek,262,16
+Laputa: Nebeský zámek,262,8
+Laputa: Nebeský zámek,262,11
+Laputa: Nebeský zámek,262,10
+Happy end,263,3
+Pahorek,264,1
+Pahorek,264,15
+Hrob světlušek,265,16
+Hrob světlušek,265,1
+Hrob světlušek,265,15
+Velká země,266,13
+Velká země,266,1
+Velká země,266,4
+Světla velkoměsta,267,3
+Světla velkoměsta,267,1
+Světla velkoměsta,267,4
+Svědek obžaloby,268,2
+Svědek obžaloby,268,1
+Svědek obžaloby,268,5
+Zmizelá,269,5
+Zmizelá,269,1
+Zmizelá,269,2
+Ďáblův advokát,270,1
+Ďáblův advokát,270,5
+Crash,271,1
+Crash,271,2
+Fantomas,272,3
+Fantomas,272,2
+Fantomas,272,11
+Fantomas,272,10
+"Hoří, má panenko",273,3
+Ecce homo Homolka,274,3
+Kristian,275,3
+Kristian,275,4
+Lady a Tramp,276,16
+Lady a Tramp,276,4
+Životy těch druhých,277,1
+Životy těch druhých,277,5
+Na sever Severozápadní linkou,278,5
+Na sever Severozápadní linkou,278,11
+Na sever Severozápadní linkou,278,4
+Romeo a Julie,279,1
+Romeo a Julie,279,4
+Volyň,280,1
+Volyň,280,6
+Volyň,280,15
+Na západní frontě klid,281,15
+Na západní frontě klid,281,1
+Sowon,282,1
+Amélie z Montmartru,283,3
+Amélie z Montmartru,283,1
+Amélie z Montmartru,283,4
+Žhavé výstřely 2,284,8
+Žhavé výstřely 2,284,3
+Žhavé výstřely 2,284,15
+Čelisti,285,11
+Čelisti,285,12
+Čelisti,285,5
+Čelisti,285,1
+Toy Story 2: Příběh hraček,286,16
+Toy Story 2: Příběh hraček,286,11
+Toy Story 2: Příběh hraček,286,3
+Zootropolis: Město zvířat,287,16
+Zootropolis: Město zvířat,287,11
+Zootropolis: Město zvířat,287,2
+Zootropolis: Město zvířat,287,3
+Na Hromnice o den více,288,10
+Na Hromnice o den více,288,3
+Na Hromnice o den více,288,4
+Planeta opic,289,9
+Planeta opic,289,11
+Planeta opic,289,1
+Let číslo 93,290,6
+Let číslo 93,290,1
+Let číslo 93,290,2
+Let číslo 93,290,5
+Mary a Max,291,16
+Mary a Max,291,3
+Mary a Max,291,1
+"Jestli se rozzlobíme, budeme zlí",292,3
+"Jestli se rozzlobíme, budeme zlí",292,8
+Baron Prášil,293,11
+Baron Prášil,293,10
+Baron Prášil,293,9
+Baron Prášil,293,16
+Kocour v botách: Poslední přání,294,16
+Kocour v botách: Poslední přání,294,8
+Kocour v botách: Poslední přání,294,11
+Kocour v botách: Poslední přání,294,3
+Kocour v botách: Poslední přání,294,10
+Hořící Mississippi,295,2
+Hořící Mississippi,295,5
+Hořící Mississippi,295,1
+Payback: Straight Up,296,8
+Payback: Straight Up,296,2
+Payback: Straight Up,296,1
+Payback: Straight Up,296,5
+Otec,297,1
+Shake Hands with the Devil,298,1
+Shake Hands with the Devil,298,6
+Shake Hands with the Devil,298,15
+Manon od pramene,299,1
+Dnes naposled,300,1
+Harakiri,301,8
+Harakiri,301,1
+Harakiri,301,6
+"Dobrodružství Robinsona Crusoe, námořníka z Yorku",302,16
+"Dobrodružství Robinsona Crusoe, námořníka z Yorku",302,11
+Krtek,303,16
+Krtek,303,11
+Velká ryba,304,10
+Velká ryba,304,11
+Velká ryba,304,4
+Velká ryba,304,1
+Apollo 13,305,11
+Apollo 13,305,1
+Apollo 13,305,6
+Bláznivá střela,306,3
+Bláznivá střela,306,2
+Bláznivá střela,306,8
+Výměna,307,1
+Výměna,307,6
+Výměna,307,2
+Výměna,307,5
+Výměna,307,7
+Nepřítel státu,308,1
+Nepřítel státu,308,8
+Nepřítel státu,308,5
+Pravidla moštárny,309,1
+Pravidla moštárny,309,4
+Billy Elliot,310,1
+Billy Elliot,310,3
+Zuřící býk,311,1
+Zuřící býk,311,7
+Eva tropí hlouposti,312,3
+Můj soused Totoro,313,16
+Můj soused Totoro,313,11
+Můj soused Totoro,313,10
+Asterix a překvapení pro Cézara,314,16
+Asterix a překvapení pro Cézara,314,11
+Asterix a překvapení pro Cézara,314,3
+Persepolis,315,16
+Persepolis,315,1
+Persepolis,315,15
+Persepolis,315,7
+Železný obr,316,16
+Železný obr,316,9
+Železný obr,316,3
+Železný obr,316,11
+Železný obr,316,2
+Železný obr,316,8
+V zajetí rychlosti,317,11
+V zajetí rychlosti,317,1
+V zajetí rychlosti,317,7
+Údolí včel,318,1
+Údolí včel,318,6
+Den Šakala,319,5
+Den Šakala,319,2
+Den Šakala,319,1
+Naušika z Větrného údolí,320,16
+Naušika z Větrného údolí,320,11
+Naušika z Větrného údolí,320,10
+Naušika z Větrného údolí,320,9
+Gándhí,321,1
+Gándhí,321,7
+Píseň moře,322,16
+Píseň moře,322,10
+Kočka na rozpálené plechové střeše,323,1
+Byt,324,1
+Byt,324,3
+Byt,324,4
+Kabinet doktora Caligariho,325,1
+Kabinet doktora Caligariho,325,12
+Kabinet doktora Caligariho,325,10
+Pohádka o Honzíkovi a Mařence,326,16
+Pohádka o Honzíkovi a Mařence,326,11
+Pohádka o Honzíkovi a Mařence,326,10
+Koe no katači,327,16
+Koe no katači,327,1
+Koe no katači,327,4
+Dangal,328,1
+Dangal,328,7
+Světla ramp,329,1
+Světla ramp,329,3
+Nebe a peklo,330,5
+Nebe a peklo,330,2
+Nebe a peklo,330,1
+Střihoruký Edward,331,1
+Střihoruký Edward,331,10
+Střihoruký Edward,331,4
+Doba ledová,332,16
+Doba ledová,332,11
+Doba ledová,332,3
+Věčný svit neposkvrněné mysli,333,1
+Věčný svit neposkvrněné mysli,333,4
+Věčný svit neposkvrněné mysli,333,9
+21 gramů,334,1
+21 gramů,334,2
+21 gramů,334,5
+Vlasy,335,17
+Vlasy,335,3
+Vlasy,335,1
+"„Čtyři vraždy stačí, drahoušku“",336,3
+"„Čtyři vraždy stačí, drahoušku“",336,2
+Klepání na nebeskou bránu,337,8
+Klepání na nebeskou bránu,337,2
+Klepání na nebeskou bránu,337,3
+Klepání na nebeskou bránu,337,1
+The Doors,338,1
+The Doors,338,7
+Podivné dědictví,339,13
+Podivné dědictví,339,3
+Podivné dědictví,339,8
+Čekej do tmy,340,12
+Čekej do tmy,340,5
+Barry Lyndon,341,1
+Barry Lyndon,341,15
+Barry Lyndon,341,11
+Barry Lyndon,341,6
+Lawrence z Arábie,342,11
+Lawrence z Arábie,342,15
+Lawrence z Arábie,342,1
+Lawrence z Arábie,342,7
+Knoflíková válka,343,3
+Kdysi byli bojovníky,344,1
+Kdysi byli bojovníky,344,2
+Božské děti,345,3
+Božské děti,345,1
+Pohádky tisíce a jedné noci,346,16
+Andrej Rublev,347,1
+Andrej Rublev,347,7
+Andrej Rublev,347,6
+Zlaté opojení,348,3
+Zlaté opojení,348,11
+Rudovous,349,1
+Dogani,350,1
+Vrah mezi námi,351,2
+Vrah mezi námi,351,5
+Vrah mezi námi,351,1
+Ve službách papeže,352,1
+Ve službách papeže,352,6
+Písečná žena,353,1
+Písečná žena,353,5
+Mrtvá nevěsta Tima Burtona,354,16
+Mrtvá nevěsta Tima Burtona,354,10
+Mrtvá nevěsta Tima Burtona,354,4
+Mrtvá nevěsta Tima Burtona,354,17
+Tři veteráni,355,3
+Tři veteráni,355,10
+Postřižiny,356,3
+Telefonní budka,357,5
+Ukradené Vánoce,358,16
+Ukradené Vánoce,358,10
+Ukradené Vánoce,358,17
+Spáči,359,2
+Spáči,359,1
+Spáči,359,5
+Hotel Modrá hvězda,360,3
+Casablanca,361,1
+Casablanca,361,4
+Casablanca,361,15
+Kráska a zvíře,362,16
+Kráska a zvíře,362,17
+Kráska a zvíře,362,4
+Uvnitř tančím,363,1
+Uvnitř tančím,363,3
+Mise,364,1
+Mise,364,11
+Mise,364,6
+Chicagský tribunál,365,1
+Chicagský tribunál,365,6
+"Jaro, léto, podzim, zima... a jaro",366,1
+Ukradená vzducholoď,367,11
+Ukradená vzducholoď,367,10
+Ukradená vzducholoď,367,6
+Rodinná oslava,368,1
+"Hádej, kdo přijde na večeři",369,3
+"Hádej, kdo přijde na večeři",369,1
+"Hádej, kdo přijde na večeři",369,4
+Stará puška,370,15
+Stará puška,370,5
+Stará puška,370,1
+Děrsu Uzala,371,11
+Děrsu Uzala,371,1
+Děrsu Uzala,371,7
+Zloději kol,372,1
+Pojistka smrti,373,1
+Pojistka smrti,373,2
+Pojistka smrti,373,5
+Krátký film o lásce,374,1
+Krátký film o lásce,374,4
+Východ slunce,375,1
+Východ slunce,375,4
+Na vlásku,376,16
+Na vlásku,376,3
+Na vlásku,376,17
+Na vlásku,376,4
+Na vlásku,376,10
+Wind River,377,1
+Wind River,377,2
+Wind River,377,5
+Rozpuštěný a vypuštěný,378,3
+Rozpuštěný a vypuštěný,378,2
+Odplata,379,8
+Odplata,379,2
+Odplata,379,5
+Odplata,379,1
+Dr. Divnoláska aneb Jak jsem se naučil nedělat si starosti a mít rád bombu,380,3
+Dr. Divnoláska aneb Jak jsem se naučil nedělat si starosti a mít rád bombu,380,15
+Jak ukrást Venuši,381,3
+Jak ukrást Venuši,381,2
+Jak ukrást Venuši,381,4
+Neviditelný host,382,2
+Neviditelný host,382,5
+Neviditelný host,382,1
+Láska a smrt,383,3
+Láska a smrt,383,15
+Po stopách krve,384,2
+Tři barvy: Červená,385,1
+Tři barvy: Červená,385,4
+Nejdelší den,386,15
+Nejdelší den,386,8
+Nejdelší den,386,1
+Nejdelší den,386,6
+Fanny a Alexandr,387,1
+Phar Lap: Národní hrdina,388,1
+Průvodce,389,1
+Za zvuků hudby,390,17
+Za zvuků hudby,390,1
+Za zvuků hudby,390,7
+Kdo seje vítr,391,1
+Scény z manželského života,392,1
+Cirkus,393,3
+Cirkus,393,1
+Cirkus,393,4
+Utrpení Panny orleánské,394,1
+Utrpení Panny orleánské,394,7
+Utrpení Panny orleánské,394,6
+O patro výš,395,3
+O patro výš,395,5
+O patro výš,395,4
+Pátý element,396,9
+Pátý element,396,8
+Pátý element,396,3
+Pátý element,396,5
+Úžasňákovi,397,16
+Úžasňákovi,397,8
+Úžasňákovi,397,11
+Donnie Darko,398,1
+Donnie Darko,398,9
+Kapitán Phillips,399,7
+Kapitán Phillips,399,5
+Kapitán Phillips,399,1
+Monty Python a Svatý Grál,400,3
+Monty Python a Svatý Grál,400,11
+Vzpomínky na Afriku,401,1
+Vzpomínky na Afriku,401,4
+Vzpomínky na Afriku,401,7
+Vzpomínky na Afriku,401,11
+Závrať,402,4
+Závrať,402,5
+Legenda o Mulan,403,16
+Legenda o Mulan,403,11
+Legenda o Mulan,403,1
+Upír Nosferatu,404,12
+Upír Nosferatu,404,10
+Popelka,405,16
+Popelka,405,4
+Popelka,405,17
+Popelka,405,10
+Sedmá pečeť,406,1
+Sedmá pečeť,406,10
+Harold a Maude,407,3
+Harold a Maude,407,4
+Harold a Maude,407,1
+Krvavá neděle,408,1
+Krvavá neděle,408,15
+Bastard,409,1
+Bastard,409,6
+Bastard,409,7
+Moje levá noha,410,1
+Moje levá noha,410,7
+Yojimbo,411,1
+Yojimbo,411,8
+"Quo vadis, Aida?",412,1
+Faust,413,1
+Faust,413,10
+Faust,413,12
+Nejlepší léta našeho života,414,1
+Nejlepší léta našeho života,414,4
+Nejlepší léta našeho života,414,15
+Vzpoura,415,1
+Piráti z Karibiku: Prokletí Černé perly,416,11
+Piráti z Karibiku: Prokletí Černé perly,416,8
+Piráti z Karibiku: Prokletí Černé perly,416,10
+Piráti z Karibiku: Prokletí Černé perly,416,3
+Podivuhodný případ Benjamina Buttona,417,1
+Podivuhodný případ Benjamina Buttona,417,10
+Podivuhodný případ Benjamina Buttona,417,4
+Hvězdný prach,418,10
+Hvězdný prach,418,4
+Hvězdný prach,418,11
+Krvavý diamant,419,11
+Krvavý diamant,419,1
+Krvavý diamant,419,5
+Jméno růže,420,1
+Jméno růže,420,2
+Jméno růže,420,5
+Nesmiřitelní,421,13
+Nesmiřitelní,421,1
+Noc na Zemi,422,3
+Noc na Zemi,422,1
+3-iron,423,1
+3-iron,423,2
+3-iron,423,4
+Prolomit vlny,424,1
+Prolomit vlny,424,4
+Unaveni sluncem,425,1
+Unaveni sluncem,425,6
+Městečko South Park: Říše fantazie,426,16
+Městečko South Park: Říše fantazie,426,3
+Corpus Christi,427,1
+Zabíjení,428,1
+Zabíjení,428,2
+Zabíjení,428,5
+"Paříž, Texas",429,1
+"Paříž, Texas",429,14
+Nikdo mě nemá rád,430,2
+Nikdo mě nemá rád,430,1
+Poklad na Sierra Madre,431,11
+Poklad na Sierra Madre,431,1
+Poklad na Sierra Madre,431,13
+Amatér,432,1
+Selhání vyloučeno,433,1
+Selhání vyloučeno,433,5
+Dárek do cely č.7,434,1
+Poslední štace,435,1
+Drž hubu!,436,3
+Drž hubu!,436,2
+Samotáři,437,3
+Samotáři,437,1
+Tři billboardy kousek za Ebbingem,438,1
+Tři billboardy kousek za Ebbingem,438,2
+Fargo,439,1
+Fargo,439,2
+Fargo,439,5
+Tajemství hradu v Karpatech,440,3
+Tajemství hradu v Karpatech,440,9
+Parazit,441,1
+Parazit,441,3
+Parazit,441,5
+Blbec k večeři,442,3
+Ray,443,1
+Ray,443,7
+Serpico,444,7
+Serpico,444,2
+Serpico,444,1
+Pouta války,445,8
+Pouta války,445,1
+Pouta války,445,15
+Prohnilí,446,3
+Prohnilí,446,2
+Kdo se bojí Virginie Woolfové?,447,1
+Jeden život,448,1
+Jeden život,448,7
+Jeden život,448,6
+Medená veža,449,1
+Doktor Živago,450,1
+Doktor Živago,450,4
+Welkeom tu Dongmakgol,451,1
+Welkeom tu Dongmakgol,451,3
+Welkeom tu Dongmakgol,451,15
+Kimssi pyoryugi,452,1
+Kimssi pyoryugi,452,4
+Útěk v řetězech,453,1
+Útěk v řetězech,453,2
+Útěk v řetězech,453,5
+Panu učiteli s láskou,454,1
+Sanjuro,455,8
+Sanjuro,455,11
+Sanjuro,455,1
+Šumař na střeše,456,17
+Šumař na střeše,456,1
+Život je úžasný,457,1
+Život je úžasný,457,7
+Star Trek,458,9
+Star Trek,458,11
+Star Trek,458,8
+Avengers: Endgame,459,8
+Avengers: Endgame,459,11
+Avengers: Endgame,459,9
+Avengers: Endgame,459,10
+Čínská čtvrť,460,1
+Čínská čtvrť,460,5
+Čínská čtvrť,460,2
+Nebožtíci přejí lásce,461,3
+Nebožtíci přejí lásce,461,4
+Byl jsem při tom,462,1
+Byl jsem při tom,462,3
+"Batman: Návrat Temného rytíře, část 2.",463,16
+"Batman: Návrat Temného rytíře, část 2.",463,8
+Smrt si říká Engelchen,464,1
+Smrt si říká Engelchen,464,15
+Plynové lampy,465,5
+Někdo tam nahoře mě má rád,466,1
+Někdo tam nahoře mě má rád,466,7
+Maurice Richard,467,1
+Maurice Richard,467,7
+Présumé coupable,468,1
+The Stoning of Soraya M.,469,1
+Byl jsem lynčován,470,1
+Byl jsem lynčován,470,2
+Byl jsem lynčován,470,5
+Divotvůrkyně,471,1
+Divotvůrkyně,471,7
+Žhavé výstřely,472,8
+Žhavé výstřely,472,3
+Žhavé výstřely,472,15
+Žhavé výstřely,472,4
+Logan: Wolverine,473,9
+Logan: Wolverine,473,8
+Logan: Wolverine,473,5
+Logan: Wolverine,473,1
+Mechanický pomeranč,474,1
+Mechanický pomeranč,474,2
+Mechanický pomeranč,474,9
+Goldfinger,475,8
+Goldfinger,475,11
+Goldfinger,475,5
+Zkažená mládež,476,1
+Annie Hallová,477,3
+Annie Hallová,477,4
+Bílá nemoc,478,1
+Bílá nemoc,478,9
+Brubaker,479,1
+Kráva,480,1
+Rašómon,481,1
+Rašómon,481,2
+Vražda na objednávku,482,2
+Vražda na objednávku,482,5
+Lesní jahody,483,1
+Lesní jahody,483,14
+Staré pověsti české,484,16
+Staré pověsti české,484,6
+Thelma a Louise,485,2
+Thelma a Louise,485,1
+Thelma a Louise,485,14
+Dokonalý svět,486,1
+Dokonalý svět,486,2
+Dokonalý svět,486,5
+Vůně ženy,487,1
+Doručovací služba čarodějky Kiki,488,16
+Doručovací služba čarodějky Kiki,488,11
+Doručovací služba čarodějky Kiki,488,1
+Doručovací služba čarodějky Kiki,488,10
+Control,489,1
+Control,489,7
+Jeremiah Johnson,490,13
+Jeremiah Johnson,490,1
+Jeremiah Johnson,490,11
+Metro Manila,491,1
+Metro Manila,491,2
+Metro Manila,491,5
+Metro Manila,491,8
+Na Zlatém jezeře,492,1
+Džúbei a umění nindžucu,493,16
+Džúbei a umění nindžucu,493,8
+Džúbei a umění nindžucu,493,11
+Džúbei a umění nindžucu,493,10
+Vlčí děti,494,16
+Vlčí děti,494,1
+Vlčí děti,494,10
+Vlčí děti,494,4
+Laurel a Hardy,495,3
+Pan Smith přichází,496,1
+Pan Smith přichází,496,3
+Kdo to tam zpívá,497,3
+Kdo to tam zpívá,497,1
+Kdo to tam zpívá,497,14
+Eso v rukávu,498,1
+Poznamenaní,499,1
+Poznamenaní,499,15
+Vojna a mír III: Rok 1812,500,1
+Vojna a mír III: Rok 1812,500,15
+Vojna a mír,501,1
+Vojna a mír,501,15
+Smrtonosná past 2,502,8
+Smrtonosná past 2,502,5
+Chlapec v pruhovaném pyžamu,503,1
+Chlapec v pruhovaném pyžamu,503,15
+Walk the Line,504,1
+Walk the Line,504,4
+Walk the Line,504,7
+Hledání Země Nezemě,505,1
+Hledání Země Nezemě,505,7
+Amores perros - Láska je kurva,506,5
+Amores perros - Láska je kurva,506,1
+Amores perros - Láska je kurva,506,2
+Mrtvý muž,507,13
+Mrtvý muž,507,1
+Mrtvý muž,507,10
+"Černá kočka, bílý kocour",508,3
+"Černá kočka, bílý kocour",508,4
+"Černá kočka, bílý kocour",508,2
+Misery nechce zemřít,509,1
+Misery nechce zemřít,509,2
+Misery nechce zemřít,509,5
+Sedím na konári a je mi dobre,510,1
+Sedím na konári a je mi dobre,510,3
+Jako zabít ptáčka,511,1
+Silnice,512,1
+Mzda strachu,513,5
+Mzda strachu,513,11
+Mzda strachu,513,1
+Berserk: Ógon džidai hen II – Doldrey kórjaku,514,16
+Berserk: Ógon džidai hen II – Doldrey kórjaku,514,8
+Berserk: Ógon džidai hen II – Doldrey kórjaku,514,1
+Berserk: Ógon džidai hen II – Doldrey kórjaku,514,10
+Kinoautomat: Člověk a jeho dům,515,3
+Aurore,516,1
+Pátá pečeť,517,1
+Pátá pečeť,517,15
+Vlk z Wall Street,518,7
+Vlk z Wall Street,518,3
+Vlk z Wall Street,518,1
+Vlk z Wall Street,518,2
+Hacksaw Ridge: Zrození hrdiny,519,7
+Hacksaw Ridge: Zrození hrdiny,519,15
+Hacksaw Ridge: Zrození hrdiny,519,6
+Hacksaw Ridge: Zrození hrdiny,519,1
+Návrat do Cold Mountain,520,1
+Návrat do Cold Mountain,520,15
+Návrat do Cold Mountain,520,4
+Pro hrst dolarů,521,13
+Pro hrst dolarů,521,8
+Pro hrst dolarů,521,1
+Opustit Las Vegas,522,1
+Opustit Las Vegas,522,4
+Ghost in the Shell,523,16
+Ghost in the Shell,523,8
+Ghost in the Shell,523,9
+Ghost in the Shell,523,5
+Petrolejové lampy,524,1
+Dotek Medúzy,525,5
+Dotek Medúzy,525,12
+S láskou Vincent,526,16
+S láskou Vincent,526,7
+S láskou Vincent,526,2
+S láskou Vincent,526,1
+Jesus Christ Superstar,527,17
+Arrietty ze světa půjčovníčků,528,16
+Arrietty ze světa půjčovníčků,528,11
+Arrietty ze světa půjčovníčků,528,1
+Arrietty ze světa půjčovníčků,528,10
+Volání divočiny,529,1
+Volání divočiny,529,11
+Kaktusový květ,530,3
+Kaktusový květ,530,4
+Ghost in the Shell 2.0,531,16
+Ghost in the Shell 2.0,531,8
+Ghost in the Shell 2.0,531,9
+Mother and Child,532,1
+Mother and Child,532,4
+Boxer a smrť,533,1
+Vozka smrti,534,1
+Vozka smrti,534,10
+Vozka smrti,534,12
+Zavěste červené lucerny,535,1
+Zavěste červené lucerny,535,6
+Člověk z mramoru,536,1
+Jagna,537,1
+Jagna,537,6
+Jagna,537,16
+Big Lebowski,538,3
+Big Lebowski,538,2
+Ti druzí,539,12
+Ti druzí,539,5
+Ti druzí,539,1
+Moulin Rouge,540,17
+Moulin Rouge,540,4
+Moulin Rouge,540,1
+Základní instinkt,541,5
+Základní instinkt,541,1
+Základní instinkt,541,2
+Interstate 60,542,11
+Interstate 60,542,3
+Interstate 60,542,1
+Interstate 60,542,14
+Stalker,543,1
+Stalker,543,9
+Růžový panter znovu zasahuje,544,3
+Růžový panter znovu zasahuje,544,2
+Hotel Mumbai,545,1
+Hotel Mumbai,545,5
+Hotel Mumbai,545,6
+Hotel Mumbai,545,8
+Adelheid,546,1
+Adelheid,546,15
+Něco z Alenky,547,16
+Něco z Alenky,547,10
+Návrat,548,1
+Návrat,548,5
+Smrtící bumerang,549,1
+Smrtící bumerang,549,5
+Mastičkář,550,1
+Mastičkář,550,4
+Žít,551,1
+Rvačka mezi muži,552,2
+Rvačka mezi muži,552,1
+Rvačka mezi muži,552,5
+Díra,553,2
+Díra,553,1
+Díra,553,5
+Barva ráje,554,1
+Obchod za rohem,555,3
+Obchod za rohem,555,4
+Vojna a mír IV: Pierre Bezuchov,556,1
+Huo zhe,557,1
+Huo zhe,557,6
+Huo zhe,557,15
+Jak utopit Dr. Mráčka aneb Konec vodníků v Čechách,558,3
+Jak utopit Dr. Mráčka aneb Konec vodníků v Čechách,558,10
+Šíleně smutná princezna,559,3
+Válka Roseových,560,3
+Válka Roseových,560,1
+Přichází Satan!,561,12
+Přichází Satan!,561,5
+Černý Petr,562,3
+Černý Petr,562,1
+Vše o mé matce,563,1
+Jih proti Severu,564,1
+Jih proti Severu,564,4
+Jih proti Severu,564,15
+Hana a její sestry,565,3
+Hana a její sestry,565,1
+Hana a její sestry,565,4
+Hombre,566,13
+Hombre,566,1
+Americká noc,567,1
+Americká noc,567,3
+Americká noc,567,4
+"Raz, dva, tři",568,3
+Pramen panny,569,1
+Tři zločinci ve skryté pevnosti,570,8
+Tři zločinci ve skryté pevnosti,570,11
+Tři zločinci ve skryté pevnosti,570,3
+Pokání,571,1
+Pokání,571,4
+Pokání,571,15
+"Muži, kteří nenávidí ženy",572,2
+"Muži, kteří nenávidí ženy",572,1
+"Muži, kteří nenávidí ženy",572,5
+Magnolia,573,1
+Vinnetou - Poslední výstřel,574,13
+Vinnetou - Poslední výstřel,574,11
+Nejvyšší nabídka,575,1
+Nejvyšší nabídka,575,4
+Nejvyšší nabídka,575,2
+Magická hlubina,576,1
+Magická hlubina,576,4
+Magická hlubina,576,11
+Rytíři spravedlnosti,577,3
+Rytíři spravedlnosti,577,1
+Rytíři spravedlnosti,577,5
+Kočár do Vídně,578,1
+Kočár do Vídně,578,15
+Persona,579,1
+Návrat domů,580,1
+Návrat domů,580,4
+Návrat domů,580,15
+Ruróni Kenšin: Meidži kenkaku rómantan – Cuioku hen,581,16
+Ruróni Kenšin: Meidži kenkaku rómantan – Cuioku hen,581,1
+Ruróni Kenšin: Meidži kenkaku rómantan – Cuioku hen,581,6
+Ruróni Kenšin: Meidži kenkaku rómantan – Cuioku hen,581,4
+Zapomenutí,582,1
+Zapomenutí,582,2
+Jsem uprchlý galejník,583,1
+Jsem uprchlý galejník,583,2
+Harry Potter a Relikvie smrti - část 2,584,11
+Harry Potter a Relikvie smrti - část 2,584,1
+Harry Potter a Relikvie smrti - část 2,584,10
+Saw: Hra o přežití,585,12
+Saw: Hra o přežití,585,5
+Na nože,586,2
+Na nože,586,3
+Na nože,586,5
+Na nože,586,1
+(Ne)obyčejný kluk,587,1
+Vampire Hunter D,588,16
+Vampire Hunter D,588,1
+Vampire Hunter D,588,12
+Vampire Hunter D,588,9
+Underground,589,1
+Underground,589,3
+Underground,589,15
+Na východ od ráje,590,1
+V žáru noci,591,2
+V žáru noci,591,1
+V žáru noci,591,5
+"Zahraj to znovu, Same",592,3
+"Zahraj to znovu, Same",592,4
+Kabaret,593,1
+Kabaret,593,17
+Kabaret,593,4
+Ďáblova past,594,1
+"Evropa, Evropa",595,1
+"Evropa, Evropa",595,15
+"Evropa, Evropa",595,6
+Mefisto,596,1
+Co se vlastně stalo s Baby Jane?,597,1
+Co se vlastně stalo s Baby Jane?,597,12
+Co se vlastně stalo s Baby Jane?,597,5
+Podzimní sonáta,598,1
+Satanské tango,599,1
+Bílé peklo,600,1
+Bílé peklo,600,8
+Bílé peklo,600,11
+Shrek 2,601,16
+Shrek 2,601,11
+Shrek 2,601,3
+Marťan,602,9
+Marťan,602,11
+Marťan,602,1
+E.T. - Mimozemšťan,603,9
+E.T. - Mimozemšťan,603,11
+E.T. - Mimozemšťan,603,1
+"Sbohem, baby",604,1
+"Sbohem, baby",604,2
+Fantomas se zlobí,605,3
+Fantomas se zlobí,605,11
+Fantomas se zlobí,605,2
+Fantomas se zlobí,605,10
+Gattaca,606,1
+Gattaca,606,9
+Gattaca,606,5
+Naprostí cizinci,607,3
+Naprostí cizinci,607,1
+Lásky jedné plavovlásky,608,4
+Lásky jedné plavovlásky,608,3
+Lásky jedné plavovlásky,608,1
+Adamova jablka,609,3
+Adamova jablka,609,1
+Kluci nepláčou,610,2
+Kluci nepláčou,610,1
+Kluci nepláčou,610,4
+Půlnoční kovboj,611,1
+Země nikoho,612,1
+Země nikoho,612,3
+Země nikoho,612,15
+Krakatit,613,1
+Krakatit,613,9
+Nebe nad Berlínem,614,10
+Nebe nad Berlínem,614,1
+Nebe nad Berlínem,614,4
+Soumrak dne,615,1
+Soumrak dne,615,4
+Amarcord,616,1
+Amarcord,616,3
+Cyrano z Bergeracu,617,7
+Cyrano z Bergeracu,617,6
+Cyrano z Bergeracu,617,4
+Cyrano z Bergeracu,617,3
+Cyrano z Bergeracu,617,1
+Pohraniční pásmo,618,1
+Pohraniční pásmo,618,5
+Pohraniční pásmo,618,15
+Dům k pověšení,619,1
+Dům k pověšení,619,3
+Dům k pověšení,619,2
+Dům k pověšení,619,10
+Soumrak,620,6
+Soumrak,620,1
+Soumrak,620,4
+Svědomí,621,1
+Hilary a Jackie,622,1
+Hilary a Jackie,622,7
+Ubožáci,623,1
+Babka,624,1
+Keurosing,625,1
+Bouřlivá dvacátá léta,626,8
+Bouřlivá dvacátá léta,626,1
+Bouřlivá dvacátá léta,626,2
+Bouřlivá dvacátá léta,626,5
+La traviata,627,1
+Indiana Jones a Chrám zkázy,628,11
+Indiana Jones a Chrám zkázy,628,8
+Indiana Jones a Chrám zkázy,628,1
+Indiana Jones a Chrám zkázy,628,10
+Krotitelé duchů,629,9
+Krotitelé duchů,629,10
+Krotitelé duchů,629,3
+Krotitelé duchů,629,11
+Zápisník jedné lásky,630,4
+Zápisník jedné lásky,630,1
+Souboj Titánů,631,10
+Souboj Titánů,631,11
+Souboj Titánů,631,8
+Oppenheimer,632,1
+Oppenheimer,632,6
+Oppenheimer,632,7
+Sully: Zázrak na řece Hudson,633,1
+Sully: Zázrak na řece Hudson,633,7
+Maverick,634,13
+Maverick,634,3
+Maverick,634,11
+Lovec jelenů,635,1
+Lovec jelenů,635,15
+Volání o pomoc,636,1
+Příběh Alvina Straighta,637,7
+Příběh Alvina Straighta,637,1
+Příběh Alvina Straighta,637,14
+Bílá paní,638,3
+Poslední pokušení Krista,639,1
+Roztomilý člověk,640,3
+Elitní jednotka 2: Vnitřní nepřítel,641,8
+Elitní jednotka 2: Vnitřní nepřítel,641,2
+Elitní jednotka 2: Vnitřní nepřítel,641,1
+Elitní jednotka 2: Vnitřní nepřítel,641,5
+Poslední mohykán,642,3
+Mistrův syn,643,3
+Mistrův syn,643,8
+Cena za něžnost,644,4
+Cena za něžnost,644,3
+Cena za něžnost,644,1
+Rozchod Nadera a Simin,645,1
+Brendan a tajemství Kellsu,646,16
+Brendan a tajemství Kellsu,646,11
+Brendan a tajemství Kellsu,646,10
+Krátký film o zabíjení,647,1
+Krátký film o zabíjení,647,2
+Chi bi xia: Jue zhan tian xia,648,6
+Chi bi xia: Jue zhan tian xia,648,8
+Chi bi xia: Jue zhan tian xia,648,11
+Chi bi xia: Jue zhan tian xia,648,15
+Chi bi xia: Jue zhan tian xia,648,1
+Stalag 17,649,1
+Stalag 17,649,3
+Stalag 17,649,15
+Tisíc dnů s Annou,650,1
+Tisíc dnů s Annou,650,6
+Papírový měsíc,651,14
+Papírový měsíc,651,1
+Papírový měsíc,651,3
+Prožít si své peklo,652,1
+K smrti odsouzený uprchl,653,1
+K smrti odsouzený uprchl,653,5
+K smrti odsouzený uprchl,653,15
+Kókaku kidótai: Stand Alone Complex - Solid State Society,654,16
+Kókaku kidótai: Stand Alone Complex - Solid State Society,654,8
+Kókaku kidótai: Stand Alone Complex - Solid State Society,654,9
+Maminčin zámek,655,3
+Maminčin zámek,655,1
+Maminčin zámek,655,4
+Maminčin zámek,655,7
+Maraton,656,1
+Maraton,656,7
+Pan Verdoux,657,3
+Pan Verdoux,657,1
+Červené střevíčky,658,1
+Červené střevíčky,658,4
+Být či nebýt,659,3
+Být či nebýt,659,15
+Pelle Dobyvatel,660,1
+Georges Bizet: Carmen,661,1
+Avatar,662,8
+Avatar,662,11
+Avatar,662,9
+Avatar,662,10
+Dannyho parťáci,663,2
+Dannyho parťáci,663,3
+Dannyho parťáci,663,5
+Ospalá díra,664,10
+Ospalá díra,664,12
+Auta,665,16
+Auta,665,3
+Kokain,666,2
+Kokain,666,1
+Kokain,666,7
+Černí baroni,667,3
+Smrtonosná zbraň 3,668,8
+Smrtonosná zbraň 3,668,2
+Smrtonosná zbraň 3,668,5
+Ghost Dog - Cesta samuraje,669,8
+Ghost Dog - Cesta samuraje,669,1
+Ghost Dog - Cesta samuraje,669,2
+Ghost Dog - Cesta samuraje,669,5
+Wallace & Gromit: Prokletí králíkodlaka,670,16
+Wallace & Gromit: Prokletí králíkodlaka,670,11
+Wallace & Gromit: Prokletí králíkodlaka,670,3
+Elitní jednotka,671,8
+Elitní jednotka,671,1
+Elitní jednotka,671,2
+Elitní jednotka,671,5
+Asterix a Kleopatra,672,16
+Asterix a Kleopatra,672,11
+Asterix a Kleopatra,672,3
+Tři dny Kondora,673,5
+Tři dny Kondora,673,2
+Vyvolávač deště,674,1
+Vyvolávač deště,674,5
+Občan Kane,675,1
+Star Trek VIII: První kontakt,676,9
+Star Trek VIII: První kontakt,676,11
+Star Trek VIII: První kontakt,676,8
+Star Trek VIII: První kontakt,676,5
+Na kometě,677,11
+Na kometě,677,9
+Na kometě,677,10
+Perný den,678,3
+V písku - Příslib svobody,679,15
+V písku - Příslib svobody,679,6
+V písku - Příslib svobody,679,1
+Šaráda,680,2
+Šaráda,680,4
+Šaráda,680,3
+Šaráda,680,5
+Porco Rosso,681,16
+Porco Rosso,681,11
+Porco Rosso,681,6
+Porco Rosso,681,3
+Mimo zákon,682,3
+Mimo zákon,682,1
+Mimo zákon,682,2
+Ghost in the Shell 2: Innocence,683,16
+Ghost in the Shell 2: Innocence,683,5
+Ghost in the Shell 2: Innocence,683,9
+Ghost in the Shell 2: Innocence,683,8
+Koně se také střílejí,684,1
+Život v oblouznění,685,3
+Život v oblouznění,685,1
+Záře,686,1
+Záře,686,7
+Pod vlivem lásky,687,8
+Pod vlivem lásky,687,1
+Pod vlivem lásky,687,3
+Pod vlivem lásky,687,4
+Slídil,688,5
+Bohémský život,689,1
+Bohémský život,689,3
+"Jdi, žij a někým se staň",690,1
+Králův dvojník,691,6
+Králův dvojník,691,1
+Werckmeisterovy harmonie,692,1
+Avengers,693,8
+Avengers,693,11
+Avengers,693,9
+Avengers,693,10
+Rocky IV,694,1
+Křidýlko nebo stehýnko,695,3
+Je třeba zabít Sekala,696,1
+Ip Man 2,697,8
+Ip Man 2,697,1
+Ip Man 2,697,6
+Ip Man 2,697,7
+Piano,698,1
+Piano,698,4
+Jdi a dívej se,699,1
+Jdi a dívej se,699,15
+Tisícročná včela,700,1
+Tisícročná včela,700,3
+Tisícročná včela,700,6
+Křižník Potěmkin,701,1
+Křižník Potěmkin,701,6
+Křižník Potěmkin,701,15
+Provaz,702,2
+Provaz,702,1
+Provaz,702,5
+Příští rok ve stejnou dobu,703,3
+Příští rok ve stejnou dobu,703,1
+Příští rok ve stejnou dobu,703,4
+Kafarnaum,704,1
+Vše o Evě,705,1
+Pokání,706,3
+Pokání,706,1
+Chladnokrevně,707,2
+Chladnokrevně,707,1
+Kimi no suizó o tabetai,708,16
+Kimi no suizó o tabetai,708,4
+Země zaslíbená,709,1
+Císařův slavík,710,16
+Casino Royale,711,8
+Casino Royale,711,11
+Casino Royale,711,2
+Casino Royale,711,5
+Toy Story 3: Příběh hraček,712,16
+Toy Story 3: Příběh hraček,712,11
+Toy Story 3: Příběh hraček,712,3
+Dařbuján a Pandrhola,713,3
+Cesta do zatracení,714,1
+Cesta do zatracení,714,2
+Cesta do zatracení,714,5
+Ostře sledované vlaky,715,3
+Ostře sledované vlaky,715,1
+Bláznivá střela 2 a 1/2: Vůně strachu,716,3
+Bláznivá střela 2 a 1/2: Vůně strachu,716,2
+Bláznivá střela 2 a 1/2: Vůně strachu,716,8
+Aladin,717,16
+Aladin,717,17
+Aladin,717,10
+Pošetilost mocných,718,3
+Pošetilost mocných,718,6
+Monty Pythonův smysl života,719,3
+Monty Pythonův smysl života,719,17
+Dogville,720,1
+Dogville,720,5
+Dogville,720,2
+Příliš vzdálený most,721,15
+Příliš vzdálený most,721,1
+Příliš vzdálený most,721,6
+Bosé nohy v parku,722,3
+Bosé nohy v parku,722,4
+Yeopgijeogin geunyeo,723,1
+Yeopgijeogin geunyeo,723,3
+Yeopgijeogin geunyeo,723,4
+Slavíci v kleci,724,1
+Horalka,725,1
+Horalka,725,15
+Vražedná pole,726,1
+Vražedná pole,726,15
+Vražedná pole,726,6
+Hrabě Monte Christo,727,11
+Hrabě Monte Christo,727,1
+Hrabě Monte Christo,727,4
+Zjizvená tvář,728,8
+Zjizvená tvář,728,1
+Zjizvená tvář,728,2
+Zjizvená tvář,728,5
+Waterloo,729,1
+Waterloo,729,8
+Waterloo,729,15
+Waterloo,729,6
+Better Man,730,7
+Better Man,730,1
+"Sbohem, má konkubíno",731,1
+"Sbohem, má konkubíno",731,4
+"Sbohem, má konkubíno",731,15
+Korunní svědek,732,2
+Strážci Galaxie,733,8
+Strážci Galaxie,733,11
+Strážci Galaxie,733,9
+Strážci Galaxie,733,10
+Strážci Galaxie,733,3
+Milionář z chatrče,734,1
+Milionář z chatrče,734,4
+"„Pane, vy jste vdova!“",735,3
+"„Pane, vy jste vdova!“",735,9
+Rozum a cit,736,1
+Rozum a cit,736,3
+Rozum a cit,736,4
+Rosemary má děťátko,737,12
+Rosemary má děťátko,737,5
+Rosemary má děťátko,737,1
+Manhattan,738,3
+Manhattan,738,1
+Manhattan,738,4
+"O dívce, která proskočila časem",739,16
+"O dívce, která proskočila časem",739,1
+"O dívce, která proskočila časem",739,4
+"O dívce, která proskočila časem",739,9
+...a spravedlnost pro všechny,740,1
+...a spravedlnost pro všechny,740,5
+...a spravedlnost pro všechny,740,2
+Zločiny a poklesky,741,3
+Zločiny a poklesky,741,1
+Šťastný Luke - Daisy Town,742,16
+Šťastný Luke - Daisy Town,742,3
+Šťastný Luke - Daisy Town,742,13
+Berserk: Ógon džidai hen III – Kórin,743,16
+Berserk: Ógon džidai hen III – Kórin,743,8
+Berserk: Ógon džidai hen III – Kórin,743,1
+Berserk: Ógon džidai hen III – Kórin,743,10
+Glory,744,1
+Oběť,745,1
+Bitva o Alžír,746,1
+Bitva o Alžír,746,15
+"Ima, ai ni jukimasu",747,10
+"Ima, ai ni jukimasu",747,4
+"Ima, ai ni jukimasu",747,1
+Bílý žár,748,8
+Bílý žár,748,1
+Bílý žár,748,2
+Špalíček,749,16
+Minority Report,750,9
+Minority Report,750,8
+Minority Report,750,5
+X-Men: Budoucí minulost,751,9
+X-Men: Budoucí minulost,751,8
+X-Men: Budoucí minulost,751,11
+X-Men: Budoucí minulost,751,5
+Nepřítel před branami,752,1
+Nepřítel před branami,752,6
+Nepřítel před branami,752,15
+Kód Enigmy,753,15
+Kód Enigmy,753,7
+Kód Enigmy,753,5
+Kód Enigmy,753,1
+Ed Wood,754,1
+Ed Wood,754,3
+Ed Wood,754,7
+Traffic - Nadvláda gangů,755,2
+Traffic - Nadvláda gangů,755,1
+Traffic - Nadvláda gangů,755,5
+Veřejný nepřítel č. 1: Epilog,756,8
+Veřejný nepřítel č. 1: Epilog,756,1
+Veřejný nepřítel č. 1: Epilog,756,2
+Veřejný nepřítel č. 1: Epilog,756,5
+Veřejný nepřítel č. 1: Epilog,756,7
+Francouzská spojka,757,2
+Francouzská spojka,757,5
+Francouzská spojka,757,1
+Francouzská spojka,757,8
+Chaplin,758,1
+Chaplin,758,7
+Smoke,759,1
+Smoke,759,3
+Po svatbě,760,1
+Svatý rok,761,3
+Svatý rok,761,2
+A teď něco úplně jiného,762,3
+Hamlet,763,1
+Hamlet,763,2
+Hamlet,763,4
+Hamlet,763,5
+Neviditelný muž,764,9
+Neviditelný muž,764,12
+Neviditelný muž,764,5
+Jeřábi táhnou,765,1
+Jeřábi táhnou,765,4
+Jeřábi táhnou,765,15
+Píseň za chudého chlapce,766,1
+Starý dům uprostřed Madridu,767,1
+Král Lear,768,1
+"Já, robot",769,9
+"Já, robot",769,8
+"Já, robot",769,2
+"Já, robot",769,5
+"Já, robot",769,1
+Zrození Planety opic,770,8
+Zrození Planety opic,770,11
+Zrození Planety opic,770,1
+Zrození Planety opic,770,9
+Zrození Planety opic,770,5
+Náš vůdce,771,1
+Náš vůdce,771,5
+Krycí jméno Donnie Brasco,772,1
+Krycí jméno Donnie Brasco,772,2
+Krycí jméno Donnie Brasco,772,7
+Karamazovi,773,1
+Braindead - Živí mrtví,774,3
+Braindead - Živí mrtví,774,12
+Legenda o slavném návratu,775,1
+Legenda o slavném návratu,775,10
+Legenda o slavném návratu,775,4
+Všichni moji blízcí,776,1
+Všichni moji blízcí,776,6
+Všichni moji blízcí,776,15
+Na pokraji slávy,777,1
+Na pokraji slávy,777,7
+Legenda o opilém Mistrovi,778,8
+Legenda o opilém Mistrovi,778,3
+Všichni prezidentovi muži,779,1
+Všichni prezidentovi muži,779,6
+Všichni prezidentovi muži,779,5
+Všichni prezidentovi muži,779,7
+Baader Meinhof Komplex,780,8
+Baader Meinhof Komplex,780,1
+Baader Meinhof Komplex,780,2
+Baader Meinhof Komplex,780,7
+Kundun,781,1
+Kundun,781,7
+Kundun,781,6
+Kundun,781,15
+Skafandr a motýl,782,1
+Skafandr a motýl,782,7
+Bambi,783,16
+Bambi,783,1
+Balón,784,1
+Balón,784,5
+Balón,784,6
+Mňága - Happy End,785,3
+Cizinci ve vlaku,786,2
+Cizinci ve vlaku,786,1
+Cizinci ve vlaku,786,5
+Země dinosaurů,787,16
+Země dinosaurů,787,11
+Země dinosaurů,787,10
+Pěst legendy,788,8
+Pěst legendy,788,1
+Stalo se jedné noci,789,4
+Stalo se jedné noci,789,3
+Stalo se jedné noci,789,11
+Stalo se jedné noci,789,14
+Daft Punk & Leiji Matsumoto's Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,790,16
+Daft Punk & Leiji Matsumoto's Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,790,8
+Daft Punk & Leiji Matsumoto's Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,790,9
+Hosté večeře Páně,791,1
+Polnočná omša,792,1
+Polnočná omša,792,15
+Hanba,793,1
+Hanba,793,15
+Zakázané hry,794,1
+Zakázané hry,794,15
+Trosečník,795,11
+Trosečník,795,1
+X-Men 2,796,8
+X-Men 2,796,11
+X-Men 2,796,9
+X-Men 2,796,5
+S tebou mě baví svět,797,3
+Tahle země není pro starý,798,5
+Tahle země není pro starý,798,2
+Tahle země není pro starý,798,1
+Klub poslední naděje,799,1
+Klub poslední naděje,799,7
+Divoké historky,800,3
+Divoké historky,800,1
+Divoké historky,800,5
+Propast,801,8
+Propast,801,11
+Propast,801,9
+Propast,801,5
+Spotlight,802,1
+Spotlight,802,6
+Spotlight,802,2
+Duše,803,16
+Duše,803,11
+Duše,803,3
+Duše,803,10
+Animatrix,804,16
+Animatrix,804,9
+Animatrix,804,8
+Animatrix,804,11
+Kam se poděla sedmá rota?,805,3
+Kam se poděla sedmá rota?,805,15
+Obávaný bojovník,806,8
+Obávaný bojovník,806,1
+Obávaný bojovník,806,7
+"Anton Špelec, ostrostřelec",807,3
+"Muž, který nebyl",808,1
+"Muž, který nebyl",808,2
+Před úsvitem,809,4
+Před úsvitem,809,1
+Kam orli nelétají,810,8
+Kam orli nelétají,810,11
+Kam orli nelétají,810,15
+Valentin Dobrotivý,811,3
+Půlnoční expres,812,2
+Půlnoční expres,812,1
+Půlnoční expres,812,5
+Půlnoční expres,812,7
+"Ronja, dcera loupežníka",813,11
+"Ronja, dcera loupežníka",813,4
+Perfect Blue,814,16
+Perfect Blue,814,1
+Perfect Blue,814,5
+Země,815,1
+Země,815,4
+Zvláštní den,816,1
+Stalo se za bílého dne,817,2
+Stalo se za bílého dne,817,5
+Tatami,818,1
+Tatami,818,5
+Suzumija Haruhi no šóšicu,819,16
+"Sbohem, pane profesore!",820,1
+"Sbohem, pane profesore!",820,17
+"Sbohem, pane profesore!",820,4
+Slovo,821,1
+Marie-Octobre,822,1
+Iron Man,823,8
+Iron Man,823,11
+Iron Man,823,9
+District 9,824,8
+District 9,824,9
+District 9,824,5
+Osm hrozných,825,13
+Osm hrozných,825,1
+Osm hrozných,825,5
+V zajetí démonů,826,12
+V zajetí démonů,826,5
+Je to i můj život,827,1
+Tootsie,828,3
+Tootsie,828,4
+Modrý samet,829,5
+Modrý samet,829,1
+Modrý samet,829,2
+Uprchlíci,830,3
+Uprchlíci,830,2
+Méďa Béďa,831,16
+Méďa Béďa,831,11
+Méďa Béďa,831,3
+Méďa Béďa,831,4
+Killer,832,8
+Killer,832,2
+Killer,832,1
+Killer,832,5
+Stíny horkého léta,833,1
+Stíny horkého léta,833,15
+Zkrocení zlé ženy,834,3
+Zkrocení zlé ženy,834,1
+Zkrocení zlé ženy,834,4
+Smuteční slavnost,835,1
+Most,836,1
+Most,836,15
+Neuvěřitelný zmenšující se muž,837,9
+Neuvěřitelný zmenšující se muž,837,5
+Neuvěřitelný zmenšující se muž,837,1
+Neuvěřitelný zmenšující se muž,837,12
+Sen noci svatojánské,838,16
+Sen noci svatojánské,838,3
+Sen noci svatojánské,838,4
+Dědička,839,1
+Dědička,839,4
+Unavená smrt,840,1
+Unavená smrt,840,5
+Unavená smrt,840,10
+Valkýra,841,15
+Valkýra,841,6
+Valkýra,841,5
+Valkýra,841,1
+Duna,842,9
+Duna,842,8
+Duna,842,11
+Duna,842,1
+Pýcha a předsudek,843,4
+Pýcha a předsudek,843,1
+Štěstí na dosah,844,1
+Štěstí na dosah,844,7
+Bezva finta,845,3
+Bezva finta,845,2
+Lost Highway,846,5
+Lost Highway,846,1
+Lost Highway,846,2
+Život Davida Galea,847,1
+Život Davida Galea,847,2
+Život Davida Galea,847,5
+Americký zločin,848,1
+Americký zločin,848,2
+Americký zločin,848,7
+Vrah skrývá tvář,849,2
+Vrah skrývá tvář,849,1
+Dumbo,850,16
+Dumbo,850,17
+Tři barvy: Modrá,851,1
+Hrabě Monte Christo,852,11
+Hrabě Monte Christo,852,8
+Hrabě Monte Christo,852,6
+Jmenuji se Khan,853,1
+Jmenuji se Khan,853,4
+Jmenuji se Khan,853,5
+Africká Královna,854,11
+Africká Královna,854,4
+Africká Královna,854,15
+Chi bi,855,6
+Chi bi,855,8
+Chi bi,855,11
+Chi bi,855,15
+Chi bi,855,1
+Berserk: Ógon džidai hen I – Haó no tamago,856,16
+Berserk: Ógon džidai hen I – Haó no tamago,856,8
+Berserk: Ógon džidai hen I – Haó no tamago,856,1
+Berserk: Ógon džidai hen I – Haó no tamago,856,10
+Rocco a jeho bratři,857,1
+Tatínkova sláva,858,1
+Tatínkova sláva,858,11
+Tatínkova sláva,858,7
+Kes,859,1
+Balada o Narajamě,860,1
+Skryté ostří,861,1
+Skryté ostří,861,4
+Šarlatová ulice,862,1
+X-Men,863,8
+X-Men,863,11
+X-Men,863,9
+X-Men,863,5
+Pomáda,864,17
+Pomáda,864,4
+Pomáda,864,3
+Pyšná princezna,865,3
+Pyšná princezna,865,1
+Pyšná princezna,865,4
+Policajt v Beverly Hills,866,8
+Policajt v Beverly Hills,866,3
+Policajt v Beverly Hills,866,2
+Mulholland Drive,867,5
+Mulholland Drive,867,1
+Mulholland Drive,867,4
+Prvotní strach,868,1
+Prvotní strach,868,5
+Prvotní strach,868,2
+Old Boy,869,1
+Old Boy,869,5
+Chlast,870,1
+Chlast,870,3
+Černá kniha,871,5
+Černá kniha,871,15
+Černá kniha,871,1
+Mluv s ní,872,1
+Mluv s ní,872,4
+Mluv s ní,872,3
+The Covenant,873,8
+The Covenant,873,1
+The Covenant,873,5
+The Covenant,873,15
+Spartakus,874,15
+Spartakus,874,6
+Spartakus,874,1
+Spartakus,874,7
+Velký bazar,875,3
+36. komnata Shaolinu,876,8
+36. komnata Shaolinu,876,6
+36. komnata Shaolinu,876,11
+36. komnata Shaolinu,876,1
+Kačeří příběhy: Poklad ze ztracené lampy,877,16
+Kačeří příběhy: Poklad ze ztracené lampy,877,11
+Kačeří příběhy: Poklad ze ztracené lampy,877,3
+Kukačka,878,1
+Kukačka,878,15
+Kukačka,878,3
+Tři mušketýři: Královniny přívěsky,879,11
+Tři mušketýři: Královniny přívěsky,879,4
+Tři mušketýři: Královniny přívěsky,879,6
+El Dorado,880,13
+Zrůdy,881,1
+Zrůdy,881,12
+Jánošík,882,11
+Jánošík,882,1
+Jánošík,882,6
+Krvavý trůn,883,1
+Anděl zkázy,884,3
+Anděl zkázy,884,1
+Anděl zkázy,884,10
+Keulraesik,885,4
+Keulraesik,885,1
+Grand Prix,886,1
+Potopa,887,11
+Potopa,887,15
+Pouto nejsilnější,888,4
+Pouto nejsilnější,888,1
+Strom na dřeváky,889,1
+Strom na dřeváky,889,6
+Vlk samotář a mládě 2: Řeka smrti,890,8
+Vlk samotář a mládě 2: Řeka smrti,890,11
+Vlk samotář a mládě 2: Řeka smrti,890,1
+Vlk samotář a mládě 3: Proti vichru smrti,891,8
+Vlk samotář a mládě 3: Proti vichru smrti,891,1
+"Frigo, oběť krevní msty",892,3
+Srdce je osamělý lovec,893,1
+Kingsman: Tajná služba,894,8
+Kingsman: Tajná služba,894,11
+Kingsman: Tajná služba,894,3
+Kingsman: Tajná služba,894,5
+Dívka na koštěti,895,3
+Vzhůru do oblak,896,16
+Vzhůru do oblak,896,11
+Vzhůru do oblak,896,1
+Vzhůru do oblak,896,3
+Total Recall,897,8
+Total Recall,897,9
+Total Recall,897,5
+Velká šestka,898,16
+Velká šestka,898,8
+Velká šestka,898,3
+Master & Commander: Odvrácená strana světa,899,15
+Master & Commander: Odvrácená strana světa,899,6
+Master & Commander: Odvrácená strana světa,899,11
+Master & Commander: Odvrácená strana světa,899,8
+Master & Commander: Odvrácená strana světa,899,1
+Lovci hlav,900,1
+Lovci hlav,900,2
+Lovci hlav,900,5
+Princ Egyptský,901,16
+Princ Egyptský,901,17
+Princ Egyptský,901,1
+Hrdinové ohně,902,1
+Hrdinové ohně,902,7
+Mravnost nade vše,903,3
+Dívka v modrém,904,3
+Dívka v modrém,904,4
+Psí odpoledne,905,1
+Psí odpoledne,905,2
+Psí odpoledne,905,5
+Psí odpoledne,905,7
+Hard Boiled,906,8
+Hard Boiled,906,1
+Hard Boiled,906,2
+Hard Boiled,906,5
+"4 měsíce, 3 týdny a 2 dny",907,1
+Třetí muž,908,5
+"Romeo, Julie a tma",909,1
+"Romeo, Julie a tma",909,15
+Divoká planeta,910,16
+Divoká planeta,910,9
+Milenci ze severního pólu,911,1
+Milenci ze severního pólu,911,4
+Klér,912,1
+Brankář,913,7
+Brankář,913,1
+Brankář,913,4
+Viridiana,914,1
+Onibaba,915,1
+Onibaba,915,12
+Fitzcarraldo,916,11
+Fitzcarraldo,916,1
+Žízeň po životě,917,1
+Žízeň po životě,917,7
+Karlík a továrna na čokoládu,918,10
+Karlík a továrna na čokoládu,918,17
+Karlík a továrna na čokoládu,918,11
+Karlík a továrna na čokoládu,918,3
+Thor: Ragnarok,919,8
+Thor: Ragnarok,919,11
+Thor: Ragnarok,919,10
+Thor: Ragnarok,919,9
+Thor: Ragnarok,919,3
+V Bruggách,920,1
+V Bruggách,920,3
+V Bruggách,920,2
+V Bruggách,920,5
+V hlavě,921,16
+V hlavě,921,10
+V hlavě,921,11
+V hlavě,921,3
+V hlavě,921,1
+"Ten, kdo stojí v koutě",922,1
+"Ten, kdo stojí v koutě",922,4
+Pád Třetí říše,923,1
+Pád Třetí říše,923,6
+Pád Třetí říše,923,15
+Pád Třetí říše,923,7
+Kontakt,924,1
+Kontakt,924,9
+Kontakt,924,5
+Raubíř Ralf,925,16
+Raubíř Ralf,925,11
+Raubíř Ralf,925,3
+Taxikář,926,1
+Taxikář,926,2
+Záměna,927,3
+Poslední souboj,928,1
+Poslední souboj,928,6
+Vítězové a poražení,929,1
+Před soumrakem,930,4
+Před soumrakem,930,1
+Marketa Lazarová,931,1
+Marketa Lazarová,931,6
+Tucet špinavců,932,8
+Tucet špinavců,932,15
+Tucet špinavců,932,1
+Straight Outta Compton,933,7
+Straight Outta Compton,933,6
+Straight Outta Compton,933,2
+Straight Outta Compton,933,1
+Ten kluk,934,1
+Hlas moře,935,1
+Hlas moře,935,7
+"Legenda o ""1900""",936,1
+"Legenda o ""1900""",936,4
+Šepot srdce,937,16
+Šepot srdce,937,1
+Šepot srdce,937,4
+Signum laudis,938,1
+Signum laudis,938,15
+Mastičkář,939,1
+All That Jazz,940,1
+All That Jazz,940,3
+All That Jazz,940,17
+"Vidíš měsíc, Danieli",941,1
+"Vidíš měsíc, Danieli",941,5
+"Vidíš měsíc, Danieli",941,7
+Příběh Marie,942,7
+Příběh Marie,942,1
+Příběh z Tokia,943,1
+Dětské tváře,944,1
+Dětské tváře,944,4
+Skyfall,945,8
+Skyfall,945,11
+Skyfall,945,5
+Ať žijí duchové!,946,3
+Ať žijí duchové!,946,17
+Ať žijí duchové!,946,10
+Ready Player One: Hra začíná,947,8
+Ready Player One: Hra začíná,947,9
+Ready Player One: Hra začíná,947,11
+Muž na Měsíci,948,3
+Muž na Měsíci,948,1
+Muž na Měsíci,948,7
+Lid versus Larry Flynt,949,1
+Lid versus Larry Flynt,949,7
+Hodiny,950,1
+"Má mě rád, nemá mě rád",951,3
+"Má mě rád, nemá mě rád",951,1
+"Má mě rád, nemá mě rád",951,4
+Vymítač ďábla,952,12
+Saturnin,953,3
+Legendy z Dogtownu,954,1
+Legendy z Dogtownu,954,7
+Sudá a lichá,955,3
+Sudá a lichá,955,2
+Sudá a lichá,955,8
+Tarzan,956,16
+Tarzan,956,11
+Tarzan,956,4
+Hořký měsíc,957,1
+Hořký měsíc,957,4
+Hořký měsíc,957,5
+Není král jako král,958,16
+Není král jako král,958,3
+Není král jako král,958,11
+Kleopatra,959,1
+Kleopatra,959,4
+Kleopatra,959,6
+Kleopatra,959,7
+West Side Story,960,17
+West Side Story,960,4
+West Side Story,960,1
+Golfový sen,961,1
+Pytlákova schovanka aneb Šlechetný milionář,962,3
+Pytlákova schovanka aneb Šlechetný milionář,962,4
+Volavka,963,1
+Volavka,963,2
+Volavka,963,5
+V rytmu srdce,964,1
+Dolores Claiborneová,965,1
+Dolores Claiborneová,965,5
+Dolores Claiborneová,965,2
+Hra na pláč,966,2
+Hra na pláč,966,1
+Hra na pláč,966,5
+Hra na pláč,966,4
+Dealer III,967,2
+Dealer III,967,1
+Dealer III,967,5
+Rosencrantz a Guildenstern jsou mrtvi,968,3
+Rosencrantz a Guildenstern jsou mrtvi,968,1
+Jak jsem se stal gangsterem,969,8
+Jak jsem se stal gangsterem,969,2
+Jak jsem se stal gangsterem,969,1
+Poslední představení,970,1
+Zázrak v New Yorku,971,3
+Zázrak v New Yorku,971,1
+Zázrak v New Yorku,971,10
+Dny vína a růží,972,4
+Dny vína a růží,972,1
+Hobit: Neočekávaná cesta,973,11
+Hobit: Neočekávaná cesta,973,10
+Duch,974,1
+Duch,974,4
+Duch,974,5
+Duch,974,10
+Předčítač,975,1
+Předčítač,975,4
+Předčítač,975,15
+Edith Piaf,976,1
+Edith Piaf,976,7
+Hrdina,977,8
+Hrdina,977,1
+Hrdina,977,11
+Room,978,1
+Odpojit,979,1
+Odpojit,979,5
+Král rybář,980,1
+Král rybář,980,3
+Král rybář,980,4
+Oddělen,981,1
+Když Burian prášil,982,3
+Sledování,983,2
+Sledování,983,5
+Sledování,983,1
+Svatba jako řemen,984,3
+Trio z Belleville,985,16
+Trio z Belleville,985,1
+Trio z Belleville,985,3
+Akira,986,16
+Akira,986,9
+Akira,986,1
+Akira,986,5
+Purpurová barva,987,1
+Místnost sebevrahů. Hater,988,1
+Místnost sebevrahů. Hater,988,5
+Požáry,989,1
+Požáry,989,15
+Seber prachy a zmiz,990,3
+Kovboj Bebop: Lovec odměn,991,16
+Kovboj Bebop: Lovec odměn,991,8
+Kovboj Bebop: Lovec odměn,991,2
+Kovboj Bebop: Lovec odměn,991,1
+Kovboj Bebop: Lovec odměn,991,5
+Kovboj Bebop: Lovec odměn,991,9
+Bohem zapomenuté děti,992,1
+Bohem zapomenuté děti,992,4
+Strach jíst duše,993,1
+Strach jíst duše,993,4
+Malý svět dona Camilla,994,3
+Deadpool,995,8
+Deadpool,995,3
+Deadpool,995,11
+Deadpool,995,9
+Deadpool,995,4
+Coach Carter,996,1
+Coach Carter,996,7
+Psí poslání,997,11
+Psí poslání,997,3
+Psí poslání,997,1
+Psí poslání,997,10
+Malý princ,998,16
+Malý princ,998,10
+Složka 64,999,2
+Složka 64,999,5
+Nebezpečné známosti,1000,1
+Nebezpečné známosti,1000,4
