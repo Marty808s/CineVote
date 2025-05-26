@@ -3,7 +3,7 @@ COPY film(name_cz, name_en, release_year)
 FROM '/tmp/initFilms.csv' DELIMITER ',' CSV HEADER;
 
 -- ŽÁNRY
-COPY genres(name_cz, name_en) 
+COPY genre(name_cz, name_en) 
 FROM '/tmp/initGenres.csv' DELIMITER ',' CSV HEADER;
 
 -- FILM_GENRE
