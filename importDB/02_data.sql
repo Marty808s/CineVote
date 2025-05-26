@@ -1,5 +1,5 @@
 -- FILMY
-COPY films(name_cz, name_en, release_year) 
+COPY film(name_cz, name_en, release_year) 
 FROM '/tmp/initFilms.csv' DELIMITER ',' CSV HEADER;
 
 -- ŽÁNRY

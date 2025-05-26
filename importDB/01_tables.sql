@@ -13,7 +13,7 @@ CREATE TABLE users (
 );
 
 -- Tabulka filmů
-CREATE TABLE films (
+CREATE TABLE film (
     id SERIAL PRIMARY KEY,
     name_cz VARCHAR(100),
     name_en VARCHAR(100),
@@ -21,19 +21,19 @@ CREATE TABLE films (
 );
 
 -- Kategorie filmů
-CREATE TABLE categories (
+CREATE TABLE genres (
     id SERIAL PRIMARY KEY,
     name_cz VARCHAR(100) UNIQUE,
     name_en VARCHAR(100) UNIQUE
 );
 
 -- Spojovací tabulka film - kategorie
-CREATE TABLE film_categories (
+CREATE TABLE film_genres (
     id SERIAL PRIMARY KEY,
     fk_film INTEGER,
-    fk_category INTEGER,
-    FOREIGN KEY (fk_film) REFERENCES films(id),
-    FOREIGN KEY (fk_category) REFERENCES categories(id)
+    fk_genre INTEGER,
+    FOREIGN KEY (fk_film) REFERENCES film(id),
+    FOREIGN KEY (fk_genre) REFERENCES genres(id)
 );
 
 -- Hodnoty hlasování (např. ano/ne)
@@ -70,12 +70,12 @@ CREATE TABLE sessions_users (
 );
 
 -- Spojovací tabulka sezení - filmy
-CREATE TABLE sessions_films (
+CREATE TABLE sessions_film (
     id SERIAL PRIMARY KEY,
     fk_session INTEGER,
     fk_film INTEGER,
     FOREIGN KEY (fk_session) REFERENCES sessions(id),
-    FOREIGN KEY (fk_film) REFERENCES films(id)
+    FOREIGN KEY (fk_film) REFERENCES film(id)
 );
 
 -- Hlasování v rámci sezení a filmu
@@ -83,6 +83,6 @@ CREATE TABLE sessions_votes (
     id SERIAL PRIMARY KEY,
     fk_session_film INTEGER,
     fk_vote INTEGER,
-    FOREIGN KEY (fk_session_film) REFERENCES sessions_films(id),
+    FOREIGN KEY (fk_session_film) REFERENCES sessions_film(id),
     FOREIGN KEY (fk_vote) REFERENCES users_votes(id)
 );
